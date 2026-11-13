@@ -8,7 +8,7 @@ inicial_start : var #1200
   static inicial_start + #1, #3967
   static inicial_start + #2, #3967
   static inicial_start + #3, #3967
-  static inicial_start + #4, #3967
+  static inicial_start + #4, #3967 
   static inicial_start + #5, #3967
   static inicial_start + #6, #3967
   static inicial_start + #7, #3967
@@ -7578,17 +7578,17 @@ g_neutro : var #1200
 
 ;==========Tela False===============
 
-g_false : var #1200
+false : var #1200
   ;Linha 0
   static false + #0, #3967
   static false + #1, #3967
   static false + #2, #3967
   static false + #3, #3967
-  static false + #4, #3967
-  static false + #5, #3967
-  static false + #6, #3967
+  static false + #4, #1
+  static false + #5, #1
+  static false + #6, #1
   static false + #7, #3967
-  static false + #8, #3967
+  static false + #8, #1
   static false + #9, #3967
   static false + #10, #3967
   static false + #11, #3967
@@ -7627,10 +7627,10 @@ g_false : var #1200
   static false + #42, #3967
   static false + #43, #3967
   static false + #44, #3967
-  static false + #45, #3967
-  static false + #46, #3967
-  static false + #47, #3967
-  static false + #48, #3967
+  static false + #45, #1
+  static false + #46, #1
+  static false + #47, #1
+  static false + #48, #1
   static false + #49, #3967
   static false + #50, #3967
   static false + #51, #3967
@@ -8592,12 +8592,12 @@ g_false : var #1200
   static false + #961, #3967
   static false + #962, #3967
   static false + #963, #3967
-  static false + #964, #2
-  static false + #965, #2
+  static false + #964, #2049
+  static false + #965, #2049
   static false + #966, #3967
   static false + #967, #2
-  static false + #968, #3967
-  static false + #969, #2
+  static false + #968, #2049
+  static false + #969, #2049
   static false + #970, #2
   static false + #971, #3967
   static false + #972, #2
@@ -8615,8 +8615,8 @@ g_false : var #1200
   static false + #984, #2
   static false + #985, #2
   static false + #986, #2
-  static false + #987, #3967
-  static false + #988, #3967
+  static false + #987, #2049
+  static false + #988, #2049
   static false + #989, #3967
   static false + #990, #3967
   static false + #991, #3967
@@ -8633,40 +8633,40 @@ g_false : var #1200
   static false + #1000, #3967
   static false + #1001, #3967
   static false + #1002, #3967
-  static false + #1003, #3967
-  static false + #1004, #3967
-  static false + #1005, #3967
-  static false + #1006, #3967
-  static false + #1007, #3967
-  static false + #1008, #3967
-  static false + #1009, #3967
-  static false + #1010, #2
+  static false + #1003, #2049
+  static false + #1004, #2049
+  static false + #1005, #2049
+  static false + #1006, #2049
+  static false + #1007, #2049
+  static false + #1008, #2049
+  static false + #1009, #2049
+  static false + #1010, #2049
   static false + #1011, #2
   static false + #1012, #2
   static false + #1013, #2
   static false + #1014, #2
   static false + #1015, #2
   static false + #1016, #2
-  static false + #1017, #3967
-  static false + #1018, #2
-  static false + #1019, #2
-  static false + #1020, #2
-  static false + #1021, #2
+  static false + #1017, #2049
+  static false + #1018, #2049
+  static false + #1019, #2049
+  static false + #1020, #2049
+  static false + #1021, #2049
   static false + #1022, #2
-  static false + #1023, #2
-  static false + #1024, #2
-  static false + #1025, #2
-  static false + #1026, #2
-  static false + #1027, #3967
-  static false + #1028, #3967
-  static false + #1029, #3967
-  static false + #1030, #3967
-  static false + #1031, #3967
+  static false + #1023, #2049
+  static false + #1024, #2049
+  static false + #1025, #2049
+  static false + #1026, #2049
+  static false + #1027, #2049
+  static false + #1028, #2049
+  static false + #1029, #2049
+  static false + #1030, #2049
+  static false + #1031, #2049
   static false + #1032, #3967
   static false + #1033, #3967
-  static false + #1034, #3967
-  static false + #1035, #3967
-  static false + #1036, #3967
+  static false + #1034, #2049
+  static false + #1035, #2049
+  static false + #1036, #2049
   static false + #1037, #3967
   static false + #1038, #3967
   static false + #1039, #3967
@@ -8675,43 +8675,43 @@ g_false : var #1200
   static false + #1040, #3967
   static false + #1041, #3967
   static false + #1042, #2049
-  static false + #1043, #2049
-  static false + #1044, #2049
-  static false + #1045, #2049
-  static false + #1046, #2049
+  static false + #1043, #2163
+  static false + #1044, #2145
+  static false + #1045, #2153
+  static false + #1046, #2162
   static false + #1047, #2049
-  static false + #1048, #2049
-  static false + #1049, #2049
-  static false + #1050, #2049
+  static false + #1048, #2139
+  static false + #1049, #2163
+  static false + #1050, #2141
   static false + #1051, #2561
   static false + #1052, #2561
   static false + #1053, #2
   static false + #1054, #2
   static false + #1055, #2
   static false + #1056, #2
-  static false + #1057, #257
-  static false + #1058, #257
-  static false + #1059, #257
-  static false + #1060, #257
-  static false + #1061, #257
+  static false + #1057, #2154
+  static false + #1058, #2159
+  static false + #1059, #2151
+  static false + #1060, #2145
+  static false + #1061, #2162
   static false + #1062, #257
-  static false + #1063, #3967
-  static false + #1064, #3967
-  static false + #1065, #2
-  static false + #1066, #3967
-  static false + #1067, #3967
-  static false + #1068, #3967
-  static false + #1069, #2049
-  static false + #1070, #2049
-  static false + #1071, #2049
+  static false + #1063, #2158
+  static false + #1064, #2159
+  static false + #1065, #2166
+  static false + #1066, #2145
+  static false + #1067, #2157
+  static false + #1068, #2149
+  static false + #1069, #2158
+  static false + #1070, #2164
+  static false + #1071, #2149
   static false + #1072, #2049
   static false + #1073, #2049
-  static false + #1074, #3967
-  static false + #1075, #3967
-  static false + #1076, #3967
+  static false + #1074, #2139
+  static false + #1075, #2147
+  static false + #1076, #2141
   static false + #1077, #3967
   static false + #1078, #3967
-  static false + #1079, #3967
+  static false + #1079, #2049
 
   ;Linha 27
   static false + #1080, #3967
@@ -8730,14 +8730,14 @@ g_false : var #1200
   static false + #1093, #257
   static false + #1094, #257
   static false + #1095, #257
-  static false + #1096, #2131
-  static false + #1097, #2113
-  static false + #1098, #2121
-  static false + #1099, #2130
-  static false + #1100, #2049
-  static false + #1101, #2139
-  static false + #1102, #2131
-  static false + #1103, #2141
+  static false + #1096, #1
+  static false + #1097, #1
+  static false + #1098, #1
+  static false + #1099, #1
+  static false + #1100, #1
+  static false + #1101, #1
+  static false + #1102, #1
+  static false + #1103, #1
   static false + #1104, #257
   static false + #1105, #3967
   static false + #1106, #3967
@@ -8792,7 +8792,7 @@ g_false : var #1200
   static false + #1153, #2049
   static false + #1154, #3967
   static false + #1155, #3967
-  static false + #1156, #3967
+  static false + #1156, #2049
   static false + #1157, #3967
   static false + #1158, #3967
   static false + #1159, #3967
@@ -8831,8 +8831,8 @@ g_false : var #1200
   static false + #1190, #3967
   static false + #1191, #3967
   static false + #1192, #3967
-  static false + #1193, #3967
-  static false + #1194, #3967
+  static false + #1193, #2049
+  static false + #1194, #2049
   static false + #1195, #3967
   static false + #1196, #3967
   static false + #1197, #3967
@@ -8841,7 +8841,7 @@ g_false : var #1200
 
 ;==========Tela True 1==============
 
-g_true1 : var #1200
+true1 : var #1200
   ;Linha 0
   static true1 + #0, #3967
   static true1 + #1, #3967
@@ -8942,8 +8942,8 @@ g_true1 : var #1200
   static true1 + #92, #3967
   static true1 + #93, #3967
   static true1 + #94, #3967
-  static true1 + #95, #2142
-  static true1 + #96, #3967
+  static true1 + #95, #3967
+  static true1 + #96, #2142
   static true1 + #97, #3967
   static true1 + #98, #3967
   static true1 + #99, #3967
@@ -8981,22 +8981,22 @@ g_true1 : var #1200
   static true1 + #129, #3967
   static true1 + #130, #3967
   static true1 + #131, #3967
-  static true1 + #132, #2134
-  static true1 + #133, #2127
-  static true1 + #134, #2147
-  static true1 + #135, #2117
-  static true1 + #136, #3967
-  static true1 + #137, #2115
-  static true1 + #138, #2127
-  static true1 + #139, #2126
-  static true1 + #140, #2131
-  static true1 + #141, #2117
-  static true1 + #142, #2119
-  static true1 + #143, #2133
-  static true1 + #144, #2121
-  static true1 + #145, #2133
-  static true1 + #146, #2081
-  static true1 + #147, #3967
+  static true1 + #132, #3967
+  static true1 + #133, #2134
+  static true1 + #134, #2127
+  static true1 + #135, #2147
+  static true1 + #136, #2117
+  static true1 + #137, #3967
+  static true1 + #138, #2115
+  static true1 + #139, #2127
+  static true1 + #140, #2126
+  static true1 + #141, #2131
+  static true1 + #142, #2117
+  static true1 + #143, #2119
+  static true1 + #144, #2133
+  static true1 + #145, #2121
+  static true1 + #146, #2133
+  static true1 + #147, #2081
   static true1 + #148, #3967
   static true1 + #149, #3967
   static true1 + #150, #3967
@@ -9022,18 +9022,18 @@ g_true1 : var #1200
   static true1 + #168, #3967
   static true1 + #169, #3967
   static true1 + #170, #3967
-  static true1 + #171, #1
-  static true1 + #172, #3967
+  static true1 + #171, #3967
+  static true1 + #172, #1
   static true1 + #173, #3967
   static true1 + #174, #3967
   static true1 + #175, #3967
   static true1 + #176, #3967
-  static true1 + #177, #1
+  static true1 + #177, #3967
   static true1 + #178, #1
   static true1 + #179, #1
   static true1 + #180, #1
   static true1 + #181, #1
-  static true1 + #182, #3967
+  static true1 + #182, #1
   static true1 + #183, #3967
   static true1 + #184, #3967
   static true1 + #185, #3967
@@ -9064,11 +9064,11 @@ g_true1 : var #1200
   static true1 + #208, #3967
   static true1 + #209, #3967
   static true1 + #210, #3967
-  static true1 + #211, #1
-  static true1 + #212, #3967
+  static true1 + #211, #3967
+  static true1 + #212, #1
   static true1 + #213, #3967
   static true1 + #214, #3967
-  static true1 + #215, #1
+  static true1 + #215, #3967
   static true1 + #216, #1
   static true1 + #217, #1
   static true1 + #218, #1
@@ -9077,7 +9077,7 @@ g_true1 : var #1200
   static true1 + #221, #1
   static true1 + #222, #1
   static true1 + #223, #1
-  static true1 + #224, #3967
+  static true1 + #224, #1
   static true1 + #225, #3967
   static true1 + #226, #3967
   static true1 + #227, #3967
@@ -9106,21 +9106,21 @@ g_true1 : var #1200
   static true1 + #248, #3967
   static true1 + #249, #3967
   static true1 + #250, #3967
-  static true1 + #251, #1
+  static true1 + #251, #3967
   static true1 + #252, #1
   static true1 + #253, #1
   static true1 + #254, #1
   static true1 + #255, #1
-  static true1 + #256, #0
+  static true1 + #256, #1
   static true1 + #257, #0
   static true1 + #258, #0
   static true1 + #259, #0
   static true1 + #260, #0
   static true1 + #261, #0
   static true1 + #262, #0
-  static true1 + #263, #1
+  static true1 + #263, #0
   static true1 + #264, #1
-  static true1 + #265, #3967
+  static true1 + #265, #1
   static true1 + #266, #3967
   static true1 + #267, #3967
   static true1 + #268, #3967
@@ -9148,23 +9148,23 @@ g_true1 : var #1200
   static true1 + #288, #3967
   static true1 + #289, #3967
   static true1 + #290, #3967
-  static true1 + #291, #1
+  static true1 + #291, #3967
   static true1 + #292, #1
   static true1 + #293, #1
-  static true1 + #294, #0
+  static true1 + #294, #1
   static true1 + #295, #0
-  static true1 + #296, #2048
+  static true1 + #296, #0
   static true1 + #297, #2048
   static true1 + #298, #2048
-  static true1 + #299, #0
-  static true1 + #300, #2048
+  static true1 + #299, #2048
+  static true1 + #300, #0
   static true1 + #301, #2048
   static true1 + #302, #2048
-  static true1 + #303, #0
+  static true1 + #303, #2048
   static true1 + #304, #0
-  static true1 + #305, #1
+  static true1 + #305, #0
   static true1 + #306, #1
-  static true1 + #307, #3967
+  static true1 + #307, #1
   static true1 + #308, #3967
   static true1 + #309, #3967
   static true1 + #310, #3967
@@ -9189,26 +9189,26 @@ g_true1 : var #1200
   static true1 + #327, #3967
   static true1 + #328, #3967
   static true1 + #329, #3967
-  static true1 + #330, #1
+  static true1 + #330, #3967
   static true1 + #331, #1
-  static true1 + #332, #0
+  static true1 + #332, #1
   static true1 + #333, #0
-  static true1 + #334, #2048
+  static true1 + #334, #0
   static true1 + #335, #2048
   static true1 + #336, #2048
   static true1 + #337, #2048
   static true1 + #338, #2048
-  static true1 + #339, #0
-  static true1 + #340, #2048
+  static true1 + #339, #2048
+  static true1 + #340, #0
   static true1 + #341, #2048
   static true1 + #342, #2048
   static true1 + #343, #2048
   static true1 + #344, #2048
-  static true1 + #345, #0
+  static true1 + #345, #2048
   static true1 + #346, #0
-  static true1 + #347, #1
+  static true1 + #347, #0
   static true1 + #348, #1
-  static true1 + #349, #3967
+  static true1 + #349, #1
   static true1 + #350, #3967
   static true1 + #351, #3967
   static true1 + #352, #3967
@@ -9231,25 +9231,25 @@ g_true1 : var #1200
   static true1 + #367, #3967
   static true1 + #368, #3967
   static true1 + #369, #3967
-  static true1 + #370, #1
-  static true1 + #371, #0
-  static true1 + #372, #2048
+  static true1 + #370, #3967
+  static true1 + #371, #1
+  static true1 + #372, #0
   static true1 + #373, #2048
   static true1 + #374, #2048
   static true1 + #375, #2048
   static true1 + #376, #2048
   static true1 + #377, #2048
   static true1 + #378, #2048
-  static true1 + #379, #0
-  static true1 + #380, #2048
+  static true1 + #379, #2048
+  static true1 + #380, #0
   static true1 + #381, #2048
   static true1 + #382, #2048
   static true1 + #383, #2048
   static true1 + #384, #2048
   static true1 + #385, #2048
   static true1 + #386, #2048
-  static true1 + #387, #0
-  static true1 + #388, #3967
+  static true1 + #387, #2048
+  static true1 + #388, #0
   static true1 + #389, #3967
   static true1 + #390, #3967
   static true1 + #391, #3967
@@ -9272,26 +9272,26 @@ g_true1 : var #1200
   static true1 + #406, #3967
   static true1 + #407, #3967
   static true1 + #408, #3967
-  static true1 + #409, #1
+  static true1 + #409, #3967
   static true1 + #410, #1
-  static true1 + #411, #0
-  static true1 + #412, #2048
+  static true1 + #411, #1
+  static true1 + #412, #0
   static true1 + #413, #2048
   static true1 + #414, #2048
   static true1 + #415, #2048
   static true1 + #416, #2048
   static true1 + #417, #2048
   static true1 + #418, #2048
-  static true1 + #419, #0
-  static true1 + #420, #2048
+  static true1 + #419, #2048
+  static true1 + #420, #0
   static true1 + #421, #2048
   static true1 + #422, #2048
   static true1 + #423, #2048
   static true1 + #424, #2048
   static true1 + #425, #2048
   static true1 + #426, #2048
-  static true1 + #427, #0
-  static true1 + #428, #3967
+  static true1 + #427, #2048
+  static true1 + #428, #0
   static true1 + #429, #3967
   static true1 + #430, #3967
   static true1 + #431, #3967
@@ -9314,27 +9314,27 @@ g_true1 : var #1200
   static true1 + #446, #3967
   static true1 + #447, #3967
   static true1 + #448, #3967
-  static true1 + #449, #1
+  static true1 + #449, #3967
   static true1 + #450, #1
-  static true1 + #451, #0
-  static true1 + #452, #2048
+  static true1 + #451, #1
+  static true1 + #452, #0
   static true1 + #453, #2048
   static true1 + #454, #2048
   static true1 + #455, #2048
   static true1 + #456, #2048
-  static true1 + #457, #0
+  static true1 + #457, #2048
   static true1 + #458, #0
   static true1 + #459, #0
   static true1 + #460, #0
   static true1 + #461, #0
-  static true1 + #462, #2048
+  static true1 + #462, #0
   static true1 + #463, #2048
   static true1 + #464, #2048
   static true1 + #465, #2048
   static true1 + #466, #2048
-  static true1 + #467, #0
-  static true1 + #468, #1
-  static true1 + #469, #3967
+  static true1 + #467, #2048
+  static true1 + #468, #0
+  static true1 + #469, #1
   static true1 + #470, #3967
   static true1 + #471, #3967
   static true1 + #472, #3967
@@ -9356,27 +9356,27 @@ g_true1 : var #1200
   static true1 + #486, #3967
   static true1 + #487, #3967
   static true1 + #488, #3967
-  static true1 + #489, #1
-  static true1 + #490, #0
-  static true1 + #491, #2048
+  static true1 + #489, #3967
+  static true1 + #490, #1
+  static true1 + #491, #0
   static true1 + #492, #2048
   static true1 + #493, #2048
   static true1 + #494, #2048
   static true1 + #495, #2048
-  static true1 + #496, #0
-  static true1 + #497, #4
-  static true1 + #498, #2
-  static true1 + #499, #1
-  static true1 + #500, #2
+  static true1 + #496, #2048
+  static true1 + #497, #0
+  static true1 + #498, #4
+  static true1 + #499, #2
+  static true1 + #500, #1
   static true1 + #501, #2
-  static true1 + #502, #0
-  static true1 + #503, #2048
+  static true1 + #502, #2
+  static true1 + #503, #0
   static true1 + #504, #2048
   static true1 + #505, #2048
   static true1 + #506, #2048
   static true1 + #507, #2048
-  static true1 + #508, #0
-  static true1 + #509, #3967
+  static true1 + #508, #2048
+  static true1 + #509, #0
   static true1 + #510, #3967
   static true1 + #511, #3967
   static true1 + #512, #3967
@@ -9398,28 +9398,28 @@ g_true1 : var #1200
   static true1 + #526, #3967
   static true1 + #527, #3967
   static true1 + #528, #3967
-  static true1 + #529, #1
-  static true1 + #530, #0
-  static true1 + #531, #2048
+  static true1 + #529, #3967
+  static true1 + #530, #1
+  static true1 + #531, #0
   static true1 + #532, #2048
   static true1 + #533, #2048
   static true1 + #534, #2048
-  static true1 + #535, #0
-  static true1 + #536, #2
+  static true1 + #535, #2048
+  static true1 + #536, #0
   static true1 + #537, #2
-  static true1 + #538, #2142
-  static true1 + #539, #2
-  static true1 + #540, #2142
-  static true1 + #541, #2
-  static true1 + #542, #3967
-  static true1 + #543, #0
-  static true1 + #544, #2048
+  static true1 + #538, #2
+  static true1 + #539, #2142
+  static true1 + #540, #2
+  static true1 + #541, #2142
+  static true1 + #542, #2
+  static true1 + #543, #3967
+  static true1 + #544, #0
   static true1 + #545, #2048
   static true1 + #546, #2048
   static true1 + #547, #2048
-  static true1 + #548, #0
-  static true1 + #549, #1
-  static true1 + #550, #3967
+  static true1 + #548, #2048
+  static true1 + #549, #0
+  static true1 + #550, #1
   static true1 + #551, #3967
   static true1 + #552, #3967
   static true1 + #553, #3967
@@ -9441,27 +9441,27 @@ g_true1 : var #1200
   static true1 + #567, #3967
   static true1 + #568, #3967
   static true1 + #569, #3967
-  static true1 + #570, #0
-  static true1 + #571, #2048
+  static true1 + #570, #3967
+  static true1 + #571, #0
   static true1 + #572, #2048
   static true1 + #573, #2048
   static true1 + #574, #2048
-  static true1 + #575, #0
-  static true1 + #576, #2
-  static true1 + #577, #2049
-  static true1 + #578, #2127
-  static true1 + #579, #257
-  static true1 + #580, #2127
-  static true1 + #581, #3967
-  static true1 + #582, #2
-  static true1 + #583, #0
-  static true1 + #584, #2048
+  static true1 + #575, #2048
+  static true1 + #576, #0
+  static true1 + #577, #2
+  static true1 + #578, #2049
+  static true1 + #579, #2127
+  static true1 + #580, #257
+  static true1 + #581, #2127
+  static true1 + #582, #3967
+  static true1 + #583, #2
+  static true1 + #584, #0
   static true1 + #585, #2048
   static true1 + #586, #2048
   static true1 + #587, #2048
-  static true1 + #588, #0
-  static true1 + #589, #1
-  static true1 + #590, #3967
+  static true1 + #588, #2048
+  static true1 + #589, #0
+  static true1 + #590, #1
   static true1 + #591, #3967
   static true1 + #592, #3967
   static true1 + #593, #3967
@@ -9482,28 +9482,28 @@ g_true1 : var #1200
   static true1 + #606, #3967
   static true1 + #607, #3967
   static true1 + #608, #3967
-  static true1 + #609, #2
-  static true1 + #610, #0
+  static true1 + #609, #3967
+  static true1 + #610, #2
   static true1 + #611, #0
   static true1 + #612, #0
   static true1 + #613, #0
   static true1 + #614, #0
   static true1 + #615, #0
-  static true1 + #616, #1
+  static true1 + #616, #0
   static true1 + #617, #1
-  static true1 + #618, #257
+  static true1 + #618, #1
   static true1 + #619, #257
   static true1 + #620, #257
-  static true1 + #621, #1
+  static true1 + #621, #257
   static true1 + #622, #1
-  static true1 + #623, #0
+  static true1 + #623, #1
   static true1 + #624, #0
   static true1 + #625, #0
   static true1 + #626, #0
   static true1 + #627, #0
   static true1 + #628, #0
-  static true1 + #629, #1
-  static true1 + #630, #3967
+  static true1 + #629, #0
+  static true1 + #630, #1
   static true1 + #631, #3967
   static true1 + #632, #3967
   static true1 + #633, #3967
@@ -9524,28 +9524,28 @@ g_true1 : var #1200
   static true1 + #646, #3967
   static true1 + #647, #3967
   static true1 + #648, #3967
-  static true1 + #649, #2
-  static true1 + #650, #0
-  static true1 + #651, #2048
+  static true1 + #649, #3967
+  static true1 + #650, #2
+  static true1 + #651, #0
   static true1 + #652, #2048
   static true1 + #653, #2048
   static true1 + #654, #2048
-  static true1 + #655, #0
-  static true1 + #656, #1
-  static true1 + #657, #3967
-  static true1 + #658, #257
-  static true1 + #659, #2127
-  static true1 + #660, #3967
-  static true1 + #661, #1
+  static true1 + #655, #2048
+  static true1 + #656, #0
+  static true1 + #657, #1
+  static true1 + #658, #3967
+  static true1 + #659, #257
+  static true1 + #660, #2127
+  static true1 + #661, #3967
   static true1 + #662, #1
-  static true1 + #663, #0
-  static true1 + #664, #2048
+  static true1 + #663, #1
+  static true1 + #664, #0
   static true1 + #665, #2048
   static true1 + #666, #2048
   static true1 + #667, #2048
-  static true1 + #668, #0
-  static true1 + #669, #1
-  static true1 + #670, #3967
+  static true1 + #668, #2048
+  static true1 + #669, #0
+  static true1 + #670, #1
   static true1 + #671, #3967
   static true1 + #672, #3967
   static true1 + #673, #3967
@@ -9566,27 +9566,27 @@ g_true1 : var #1200
   static true1 + #686, #3967
   static true1 + #687, #3967
   static true1 + #688, #3967
-  static true1 + #689, #1
-  static true1 + #690, #0
-  static true1 + #691, #2048
+  static true1 + #689, #3967
+  static true1 + #690, #1
+  static true1 + #691, #0
   static true1 + #692, #2048
   static true1 + #693, #2048
   static true1 + #694, #2048
-  static true1 + #695, #0
-  static true1 + #696, #1
-  static true1 + #697, #3967
+  static true1 + #695, #2048
+  static true1 + #696, #0
+  static true1 + #697, #1
   static true1 + #698, #3967
   static true1 + #699, #3967
   static true1 + #700, #3967
-  static true1 + #701, #1
+  static true1 + #701, #3967
   static true1 + #702, #1
-  static true1 + #703, #0
-  static true1 + #704, #2048
+  static true1 + #703, #1
+  static true1 + #704, #0
   static true1 + #705, #2048
   static true1 + #706, #2048
   static true1 + #707, #2048
-  static true1 + #708, #0
-  static true1 + #709, #3967
+  static true1 + #708, #2048
+  static true1 + #709, #0
   static true1 + #710, #3967
   static true1 + #711, #3967
   static true1 + #712, #3967
@@ -9608,27 +9608,27 @@ g_true1 : var #1200
   static true1 + #726, #3967
   static true1 + #727, #3967
   static true1 + #728, #3967
-  static true1 + #729, #2
-  static true1 + #730, #0
-  static true1 + #731, #2048
+  static true1 + #729, #3967
+  static true1 + #730, #2
+  static true1 + #731, #0
   static true1 + #732, #2048
   static true1 + #733, #2048
   static true1 + #734, #2048
   static true1 + #735, #2048
-  static true1 + #736, #0
-  static true1 + #737, #1
+  static true1 + #736, #2048
+  static true1 + #737, #0
   static true1 + #738, #1
   static true1 + #739, #1
   static true1 + #740, #1
   static true1 + #741, #1
-  static true1 + #742, #0
-  static true1 + #743, #2048
+  static true1 + #742, #1
+  static true1 + #743, #0
   static true1 + #744, #2048
   static true1 + #745, #2048
   static true1 + #746, #2048
   static true1 + #747, #2048
-  static true1 + #748, #0
-  static true1 + #749, #3967
+  static true1 + #748, #2048
+  static true1 + #749, #0
   static true1 + #750, #3967
   static true1 + #751, #3967
   static true1 + #752, #3967
@@ -9650,27 +9650,27 @@ g_true1 : var #1200
   static true1 + #766, #3967
   static true1 + #767, #3967
   static true1 + #768, #3967
-  static true1 + #769, #2
+  static true1 + #769, #3967
   static true1 + #770, #2
-  static true1 + #771, #0
-  static true1 + #772, #2048
+  static true1 + #771, #2
+  static true1 + #772, #0
   static true1 + #773, #2048
   static true1 + #774, #2048
   static true1 + #775, #2048
   static true1 + #776, #2048
-  static true1 + #777, #0
+  static true1 + #777, #2048
   static true1 + #778, #0
   static true1 + #779, #0
   static true1 + #780, #0
   static true1 + #781, #0
-  static true1 + #782, #2048
+  static true1 + #782, #0
   static true1 + #783, #2048
   static true1 + #784, #2048
   static true1 + #785, #2048
   static true1 + #786, #2048
-  static true1 + #787, #0
-  static true1 + #788, #2
-  static true1 + #789, #3967
+  static true1 + #787, #2048
+  static true1 + #788, #0
+  static true1 + #789, #2
   static true1 + #790, #3967
   static true1 + #791, #3967
   static true1 + #792, #3967
@@ -9691,28 +9691,28 @@ g_true1 : var #1200
   static true1 + #805, #3967
   static true1 + #806, #3967
   static true1 + #807, #3967
-  static true1 + #808, #2
+  static true1 + #808, #3967
   static true1 + #809, #2
   static true1 + #810, #2
-  static true1 + #811, #0
-  static true1 + #812, #2048
+  static true1 + #811, #2
+  static true1 + #812, #0
   static true1 + #813, #2048
   static true1 + #814, #2048
   static true1 + #815, #2048
   static true1 + #816, #2048
   static true1 + #817, #2048
   static true1 + #818, #2048
-  static true1 + #819, #0
-  static true1 + #820, #2048
+  static true1 + #819, #2048
+  static true1 + #820, #0
   static true1 + #821, #2048
   static true1 + #822, #2048
   static true1 + #823, #2048
   static true1 + #824, #2048
   static true1 + #825, #2048
   static true1 + #826, #2048
-  static true1 + #827, #0
-  static true1 + #828, #2
-  static true1 + #829, #3967
+  static true1 + #827, #2048
+  static true1 + #828, #0
+  static true1 + #829, #2
   static true1 + #830, #3967
   static true1 + #831, #3967
   static true1 + #832, #3967
@@ -9733,28 +9733,28 @@ g_true1 : var #1200
   static true1 + #845, #3967
   static true1 + #846, #3967
   static true1 + #847, #3967
-  static true1 + #848, #2
-  static true1 + #849, #3967
-  static true1 + #850, #2
-  static true1 + #851, #0
-  static true1 + #852, #2048
+  static true1 + #848, #3967
+  static true1 + #849, #2
+  static true1 + #850, #3967
+  static true1 + #851, #2
+  static true1 + #852, #0
   static true1 + #853, #2048
   static true1 + #854, #2048
   static true1 + #855, #2048
   static true1 + #856, #2048
   static true1 + #857, #2048
   static true1 + #858, #2048
-  static true1 + #859, #0
-  static true1 + #860, #2048
+  static true1 + #859, #2048
+  static true1 + #860, #0
   static true1 + #861, #2048
   static true1 + #862, #2048
   static true1 + #863, #2048
   static true1 + #864, #2048
   static true1 + #865, #2048
   static true1 + #866, #2048
-  static true1 + #867, #0
-  static true1 + #868, #2
-  static true1 + #869, #3967
+  static true1 + #867, #2048
+  static true1 + #868, #0
+  static true1 + #869, #2
   static true1 + #870, #3967
   static true1 + #871, #3967
   static true1 + #872, #3967
@@ -9775,29 +9775,29 @@ g_true1 : var #1200
   static true1 + #885, #3967
   static true1 + #886, #3967
   static true1 + #887, #3967
-  static true1 + #888, #2
+  static true1 + #888, #3967
   static true1 + #889, #2
   static true1 + #890, #2
   static true1 + #891, #2
-  static true1 + #892, #0
+  static true1 + #892, #2
   static true1 + #893, #0
-  static true1 + #894, #2048
+  static true1 + #894, #0
   static true1 + #895, #2048
   static true1 + #896, #2048
   static true1 + #897, #2048
   static true1 + #898, #2048
-  static true1 + #899, #0
-  static true1 + #900, #2048
+  static true1 + #899, #2048
+  static true1 + #900, #0
   static true1 + #901, #2048
   static true1 + #902, #2048
   static true1 + #903, #2048
   static true1 + #904, #2048
-  static true1 + #905, #0
+  static true1 + #905, #2048
   static true1 + #906, #0
-  static true1 + #907, #1
-  static true1 + #908, #2
+  static true1 + #907, #0
+  static true1 + #908, #1
   static true1 + #909, #2
-  static true1 + #910, #3967
+  static true1 + #910, #2
   static true1 + #911, #3967
   static true1 + #912, #3967
   static true1 + #913, #3967
@@ -9813,32 +9813,32 @@ g_true1 : var #1200
   static true1 + #921, #3967
   static true1 + #922, #3967
   static true1 + #923, #3967
-  static true1 + #924, #2
+  static true1 + #924, #3967
   static true1 + #925, #2
-  static true1 + #926, #3967
-  static true1 + #927, #2
+  static true1 + #926, #2
+  static true1 + #927, #3967
   static true1 + #928, #2
   static true1 + #929, #2
   static true1 + #930, #2
   static true1 + #931, #2
   static true1 + #932, #2
   static true1 + #933, #2
-  static true1 + #934, #0
+  static true1 + #934, #2
   static true1 + #935, #0
-  static true1 + #936, #2048
+  static true1 + #936, #0
   static true1 + #937, #2048
   static true1 + #938, #2048
-  static true1 + #939, #0
-  static true1 + #940, #2048
+  static true1 + #939, #2048
+  static true1 + #940, #0
   static true1 + #941, #2048
   static true1 + #942, #2048
-  static true1 + #943, #0
+  static true1 + #943, #2048
   static true1 + #944, #0
-  static true1 + #945, #2
-  static true1 + #946, #1
-  static true1 + #947, #2
+  static true1 + #945, #0
+  static true1 + #946, #2
+  static true1 + #947, #1
   static true1 + #948, #2
-  static true1 + #949, #3967
+  static true1 + #949, #2
   static true1 + #950, #3967
   static true1 + #951, #3967
   static true1 + #952, #3967
@@ -9855,30 +9855,30 @@ g_true1 : var #1200
   static true1 + #961, #3967
   static true1 + #962, #3967
   static true1 + #963, #3967
-  static true1 + #964, #2
+  static true1 + #964, #3967
   static true1 + #965, #2
-  static true1 + #966, #3967
-  static true1 + #967, #2
-  static true1 + #968, #3967
-  static true1 + #969, #2
+  static true1 + #966, #2
+  static true1 + #967, #3967
+  static true1 + #968, #2
+  static true1 + #969, #3967
   static true1 + #970, #2
-  static true1 + #971, #3967
-  static true1 + #972, #2
+  static true1 + #971, #2
+  static true1 + #972, #3967
   static true1 + #973, #2
   static true1 + #974, #2
   static true1 + #975, #2
-  static true1 + #976, #0
+  static true1 + #976, #2
   static true1 + #977, #0
   static true1 + #978, #0
   static true1 + #979, #0
   static true1 + #980, #0
   static true1 + #981, #0
   static true1 + #982, #0
-  static true1 + #983, #3967
-  static true1 + #984, #2
+  static true1 + #983, #0
+  static true1 + #984, #3967
   static true1 + #985, #2
   static true1 + #986, #2
-  static true1 + #987, #3967
+  static true1 + #987, #2
   static true1 + #988, #3967
   static true1 + #989, #3967
   static true1 + #990, #3967
@@ -9903,15 +9903,15 @@ g_true1 : var #1200
   static true1 + #1007, #3967
   static true1 + #1008, #3967
   static true1 + #1009, #3967
-  static true1 + #1010, #2
+  static true1 + #1010, #3967
   static true1 + #1011, #2
   static true1 + #1012, #2
   static true1 + #1013, #2
   static true1 + #1014, #2
   static true1 + #1015, #2
   static true1 + #1016, #2
-  static true1 + #1017, #3967
-  static true1 + #1018, #2
+  static true1 + #1017, #2
+  static true1 + #1018, #3967
   static true1 + #1019, #2
   static true1 + #1020, #2
   static true1 + #1021, #2
@@ -9920,7 +9920,7 @@ g_true1 : var #1200
   static true1 + #1024, #2
   static true1 + #1025, #2
   static true1 + #1026, #2
-  static true1 + #1027, #3967
+  static true1 + #1027, #2
   static true1 + #1028, #3967
   static true1 + #1029, #3967
   static true1 + #1030, #3967
@@ -9937,39 +9937,39 @@ g_true1 : var #1200
   ;Linha 26
   static true1 + #1040, #3967
   static true1 + #1041, #3967
-  static true1 + #1042, #2115
-  static true1 + #1043, #2127
-  static true1 + #1044, #2126
-  static true1 + #1045, #2132
-  static true1 + #1046, #2121
-  static true1 + #1047, #2126
-  static true1 + #1048, #2133
-  static true1 + #1049, #2113
-  static true1 + #1050, #2130
-  static true1 + #1051, #2561
+  static true1 + #1042, #3967
+  static true1 + #1043, #2115
+  static true1 + #1044, #2127
+  static true1 + #1045, #2126
+  static true1 + #1046, #2132
+  static true1 + #1047, #2121
+  static true1 + #1048, #2126
+  static true1 + #1049, #2133
+  static true1 + #1050, #2113
+  static true1 + #1051, #2130
   static true1 + #1052, #2561
-  static true1 + #1053, #2
+  static true1 + #1053, #2561
   static true1 + #1054, #2
   static true1 + #1055, #2
   static true1 + #1056, #2
-  static true1 + #1057, #257
+  static true1 + #1057, #2
   static true1 + #1058, #257
   static true1 + #1059, #257
   static true1 + #1060, #257
   static true1 + #1061, #257
   static true1 + #1062, #257
-  static true1 + #1063, #3967
+  static true1 + #1063, #257
   static true1 + #1064, #3967
-  static true1 + #1065, #2
-  static true1 + #1066, #3967
+  static true1 + #1065, #3967
+  static true1 + #1066, #2
   static true1 + #1067, #3967
   static true1 + #1068, #3967
   static true1 + #1069, #3967
-  static true1 + #1070, #2131
-  static true1 + #1071, #2113
-  static true1 + #1072, #2121
-  static true1 + #1073, #2130
-  static true1 + #1074, #3967
+  static true1 + #1070, #3967
+  static true1 + #1071, #2131
+  static true1 + #1072, #2113
+  static true1 + #1073, #2121
+  static true1 + #1074, #2130
   static true1 + #1075, #3967
   static true1 + #1076, #3967
   static true1 + #1077, #3967
@@ -9979,17 +9979,17 @@ g_true1 : var #1200
   ;Linha 27
   static true1 + #1080, #3967
   static true1 + #1081, #3967
-  static true1 + #1082, #2049
+  static true1 + #1082, #3967
   static true1 + #1083, #2049
   static true1 + #1084, #2049
   static true1 + #1085, #2049
-  static true1 + #1086, #3967
+  static true1 + #1086, #2049
   static true1 + #1087, #3967
   static true1 + #1088, #3967
   static true1 + #1089, #3967
   static true1 + #1090, #3967
   static true1 + #1091, #3967
-  static true1 + #1092, #257
+  static true1 + #1092, #3967
   static true1 + #1093, #257
   static true1 + #1094, #257
   static true1 + #1095, #257
@@ -10002,7 +10002,7 @@ g_true1 : var #1200
   static true1 + #1102, #257
   static true1 + #1103, #257
   static true1 + #1104, #257
-  static true1 + #1105, #3967
+  static true1 + #1105, #257
   static true1 + #1106, #3967
   static true1 + #1107, #3967
   static true1 + #1108, #3967
@@ -10022,14 +10022,14 @@ g_true1 : var #1200
   static true1 + #1120, #3967
   static true1 + #1121, #3967
   static true1 + #1122, #3967
-  static true1 + #1123, #2139
-  static true1 + #1124, #2117
-  static true1 + #1125, #2126
-  static true1 + #1126, #2132
-  static true1 + #1127, #2117
-  static true1 + #1128, #2130
-  static true1 + #1129, #2141
-  static true1 + #1130, #3967
+  static true1 + #1123, #3967
+  static true1 + #1124, #2139
+  static true1 + #1125, #2117
+  static true1 + #1126, #2126
+  static true1 + #1127, #2132
+  static true1 + #1128, #2117
+  static true1 + #1129, #2130
+  static true1 + #1130, #2141
   static true1 + #1131, #3967
   static true1 + #1132, #3967
   static true1 + #1133, #3967
@@ -10049,10 +10049,10 @@ g_true1 : var #1200
   static true1 + #1147, #3967
   static true1 + #1148, #3967
   static true1 + #1149, #3967
-  static true1 + #1150, #2139
-  static true1 + #1151, #2131
-  static true1 + #1152, #2141
-  static true1 + #1153, #3967
+  static true1 + #1150, #3967
+  static true1 + #1151, #2139
+  static true1 + #1152, #2131
+  static true1 + #1153, #2141
   static true1 + #1154, #3967
   static true1 + #1155, #3967
   static true1 + #1156, #3967
@@ -10104,7 +10104,7 @@ g_true1 : var #1200
 
 ;=========Tela True 2================
 
-g_true2 : var #1200
+true2 : var #1200
   ;Linha 0
   static true2 + #0, #3967
   static true2 + #1, #3967
@@ -10205,8 +10205,8 @@ g_true2 : var #1200
   static true2 + #92, #3967
   static true2 + #93, #3967
   static true2 + #94, #3967
-  static true2 + #95, #2142
-  static true2 + #96, #3967
+  static true2 + #95, #3967
+  static true2 + #96, #2142
   static true2 + #97, #3967
   static true2 + #98, #3967
   static true2 + #99, #3967
@@ -10244,22 +10244,22 @@ g_true2 : var #1200
   static true2 + #129, #3967
   static true2 + #130, #3967
   static true2 + #131, #3967
-  static true2 + #132, #2134
-  static true2 + #133, #2127
-  static true2 + #134, #2147
-  static true2 + #135, #2117
-  static true2 + #136, #3967
-  static true2 + #137, #2115
-  static true2 + #138, #2127
-  static true2 + #139, #2126
-  static true2 + #140, #2131
-  static true2 + #141, #2117
-  static true2 + #142, #2119
-  static true2 + #143, #2133
-  static true2 + #144, #2121
-  static true2 + #145, #2133
-  static true2 + #146, #2081
-  static true2 + #147, #3967
+  static true2 + #132, #3967
+  static true2 + #133, #2134
+  static true2 + #134, #2127
+  static true2 + #135, #2147
+  static true2 + #136, #2117
+  static true2 + #137, #3967
+  static true2 + #138, #2115
+  static true2 + #139, #2127
+  static true2 + #140, #2126
+  static true2 + #141, #2131
+  static true2 + #142, #2117
+  static true2 + #143, #2119
+  static true2 + #144, #2133
+  static true2 + #145, #2121
+  static true2 + #146, #2133
+  static true2 + #147, #2081
   static true2 + #148, #3967
   static true2 + #149, #3967
   static true2 + #150, #3967
@@ -10285,18 +10285,18 @@ g_true2 : var #1200
   static true2 + #168, #3967
   static true2 + #169, #3967
   static true2 + #170, #3967
-  static true2 + #171, #1
-  static true2 + #172, #3967
+  static true2 + #171, #3967
+  static true2 + #172, #1
   static true2 + #173, #3967
   static true2 + #174, #3967
   static true2 + #175, #3967
   static true2 + #176, #3967
-  static true2 + #177, #1
+  static true2 + #177, #3967
   static true2 + #178, #1
   static true2 + #179, #1
   static true2 + #180, #1
   static true2 + #181, #1
-  static true2 + #182, #3967
+  static true2 + #182, #1
   static true2 + #183, #3967
   static true2 + #184, #3967
   static true2 + #185, #3967
@@ -10327,11 +10327,11 @@ g_true2 : var #1200
   static true2 + #208, #3967
   static true2 + #209, #3967
   static true2 + #210, #3967
-  static true2 + #211, #1
-  static true2 + #212, #3967
+  static true2 + #211, #3967
+  static true2 + #212, #1
   static true2 + #213, #3967
   static true2 + #214, #3967
-  static true2 + #215, #1
+  static true2 + #215, #3967
   static true2 + #216, #1
   static true2 + #217, #1
   static true2 + #218, #1
@@ -10340,7 +10340,7 @@ g_true2 : var #1200
   static true2 + #221, #1
   static true2 + #222, #1
   static true2 + #223, #1
-  static true2 + #224, #3967
+  static true2 + #224, #1
   static true2 + #225, #3967
   static true2 + #226, #3967
   static true2 + #227, #3967
@@ -10369,21 +10369,21 @@ g_true2 : var #1200
   static true2 + #248, #3967
   static true2 + #249, #3967
   static true2 + #250, #3967
-  static true2 + #251, #1
+  static true2 + #251, #3967
   static true2 + #252, #1
   static true2 + #253, #1
   static true2 + #254, #1
   static true2 + #255, #1
-  static true2 + #256, #0
+  static true2 + #256, #1
   static true2 + #257, #0
   static true2 + #258, #0
   static true2 + #259, #0
   static true2 + #260, #0
   static true2 + #261, #0
   static true2 + #262, #0
-  static true2 + #263, #1
+  static true2 + #263, #0
   static true2 + #264, #1
-  static true2 + #265, #3967
+  static true2 + #265, #1
   static true2 + #266, #3967
   static true2 + #267, #3967
   static true2 + #268, #3967
@@ -10411,23 +10411,23 @@ g_true2 : var #1200
   static true2 + #288, #3967
   static true2 + #289, #3967
   static true2 + #290, #3967
-  static true2 + #291, #1
+  static true2 + #291, #3967
   static true2 + #292, #1
   static true2 + #293, #1
-  static true2 + #294, #0
+  static true2 + #294, #1
   static true2 + #295, #0
-  static true2 + #296, #512
+  static true2 + #296, #0
   static true2 + #297, #512
   static true2 + #298, #512
-  static true2 + #299, #0
-  static true2 + #300, #2048
+  static true2 + #299, #512
+  static true2 + #300, #0
   static true2 + #301, #2048
   static true2 + #302, #2048
-  static true2 + #303, #0
+  static true2 + #303, #2048
   static true2 + #304, #0
-  static true2 + #305, #1
+  static true2 + #305, #0
   static true2 + #306, #1
-  static true2 + #307, #3967
+  static true2 + #307, #1
   static true2 + #308, #3967
   static true2 + #309, #3967
   static true2 + #310, #3967
@@ -10452,26 +10452,26 @@ g_true2 : var #1200
   static true2 + #327, #3967
   static true2 + #328, #3967
   static true2 + #329, #3967
-  static true2 + #330, #1
+  static true2 + #330, #3967
   static true2 + #331, #1
-  static true2 + #332, #0
+  static true2 + #332, #1
   static true2 + #333, #0
-  static true2 + #334, #512
+  static true2 + #334, #0
   static true2 + #335, #512
   static true2 + #336, #512
   static true2 + #337, #512
   static true2 + #338, #512
-  static true2 + #339, #0
-  static true2 + #340, #2048
+  static true2 + #339, #512
+  static true2 + #340, #0
   static true2 + #341, #2048
   static true2 + #342, #2048
   static true2 + #343, #2048
   static true2 + #344, #2048
-  static true2 + #345, #0
+  static true2 + #345, #2048
   static true2 + #346, #0
-  static true2 + #347, #1
+  static true2 + #347, #0
   static true2 + #348, #1
-  static true2 + #349, #3967
+  static true2 + #349, #1
   static true2 + #350, #3967
   static true2 + #351, #3967
   static true2 + #352, #3967
@@ -10494,25 +10494,25 @@ g_true2 : var #1200
   static true2 + #367, #3967
   static true2 + #368, #3967
   static true2 + #369, #3967
-  static true2 + #370, #1
-  static true2 + #371, #0
-  static true2 + #372, #512
+  static true2 + #370, #3967
+  static true2 + #371, #1
+  static true2 + #372, #0
   static true2 + #373, #512
   static true2 + #374, #512
   static true2 + #375, #512
   static true2 + #376, #512
   static true2 + #377, #512
   static true2 + #378, #512
-  static true2 + #379, #0
-  static true2 + #380, #2048
+  static true2 + #379, #512
+  static true2 + #380, #0
   static true2 + #381, #2048
   static true2 + #382, #2048
   static true2 + #383, #2048
   static true2 + #384, #2048
   static true2 + #385, #2048
   static true2 + #386, #2048
-  static true2 + #387, #0
-  static true2 + #388, #3967
+  static true2 + #387, #2048
+  static true2 + #388, #0
   static true2 + #389, #3967
   static true2 + #390, #3967
   static true2 + #391, #3967
@@ -10535,26 +10535,26 @@ g_true2 : var #1200
   static true2 + #406, #3967
   static true2 + #407, #3967
   static true2 + #408, #3967
-  static true2 + #409, #1
+  static true2 + #409, #3967
   static true2 + #410, #1
-  static true2 + #411, #0
-  static true2 + #412, #512
+  static true2 + #411, #1
+  static true2 + #412, #0
   static true2 + #413, #512
   static true2 + #414, #512
   static true2 + #415, #512
   static true2 + #416, #512
   static true2 + #417, #512
   static true2 + #418, #512
-  static true2 + #419, #0
-  static true2 + #420, #2048
+  static true2 + #419, #512
+  static true2 + #420, #0
   static true2 + #421, #2048
   static true2 + #422, #2048
   static true2 + #423, #2048
   static true2 + #424, #2048
   static true2 + #425, #2048
   static true2 + #426, #2048
-  static true2 + #427, #0
-  static true2 + #428, #3967
+  static true2 + #427, #2048
+  static true2 + #428, #0
   static true2 + #429, #3967
   static true2 + #430, #3967
   static true2 + #431, #3967
@@ -10577,27 +10577,27 @@ g_true2 : var #1200
   static true2 + #446, #3967
   static true2 + #447, #3967
   static true2 + #448, #3967
-  static true2 + #449, #1
+  static true2 + #449, #3967
   static true2 + #450, #1
-  static true2 + #451, #0
-  static true2 + #452, #512
+  static true2 + #451, #1
+  static true2 + #452, #0
   static true2 + #453, #512
   static true2 + #454, #512
   static true2 + #455, #512
   static true2 + #456, #512
-  static true2 + #457, #0
+  static true2 + #457, #512
   static true2 + #458, #0
   static true2 + #459, #0
   static true2 + #460, #0
   static true2 + #461, #0
-  static true2 + #462, #2048
+  static true2 + #462, #0
   static true2 + #463, #2048
   static true2 + #464, #2048
   static true2 + #465, #2048
   static true2 + #466, #2048
-  static true2 + #467, #0
-  static true2 + #468, #1
-  static true2 + #469, #3967
+  static true2 + #467, #2048
+  static true2 + #468, #0
+  static true2 + #469, #1
   static true2 + #470, #3967
   static true2 + #471, #3967
   static true2 + #472, #3967
@@ -10619,27 +10619,27 @@ g_true2 : var #1200
   static true2 + #486, #3967
   static true2 + #487, #3967
   static true2 + #488, #3967
-  static true2 + #489, #1
-  static true2 + #490, #0
-  static true2 + #491, #512
+  static true2 + #489, #3967
+  static true2 + #490, #1
+  static true2 + #491, #0
   static true2 + #492, #512
   static true2 + #493, #512
   static true2 + #494, #512
   static true2 + #495, #512
-  static true2 + #496, #0
-  static true2 + #497, #4
-  static true2 + #498, #2049
-  static true2 + #499, #1
-  static true2 + #500, #2
+  static true2 + #496, #512
+  static true2 + #497, #0
+  static true2 + #498, #4
+  static true2 + #499, #2049
+  static true2 + #500, #1
   static true2 + #501, #2
-  static true2 + #502, #0
-  static true2 + #503, #2048
+  static true2 + #502, #2
+  static true2 + #503, #0
   static true2 + #504, #2048
   static true2 + #505, #2048
   static true2 + #506, #2048
   static true2 + #507, #2048
-  static true2 + #508, #0
-  static true2 + #509, #3967
+  static true2 + #508, #2048
+  static true2 + #509, #0
   static true2 + #510, #3967
   static true2 + #511, #3967
   static true2 + #512, #3967
@@ -10661,28 +10661,28 @@ g_true2 : var #1200
   static true2 + #526, #3967
   static true2 + #527, #3967
   static true2 + #528, #3967
-  static true2 + #529, #1
-  static true2 + #530, #0
-  static true2 + #531, #512
+  static true2 + #529, #3967
+  static true2 + #530, #1
+  static true2 + #531, #0
   static true2 + #532, #512
   static true2 + #533, #512
   static true2 + #534, #512
-  static true2 + #535, #0
-  static true2 + #536, #2
+  static true2 + #535, #512
+  static true2 + #536, #0
   static true2 + #537, #2
-  static true2 + #538, #2142
-  static true2 + #539, #2
-  static true2 + #540, #2142
-  static true2 + #541, #2
-  static true2 + #542, #3967
-  static true2 + #543, #0
-  static true2 + #544, #2048
+  static true2 + #538, #2
+  static true2 + #539, #2142
+  static true2 + #540, #2
+  static true2 + #541, #2142
+  static true2 + #542, #2
+  static true2 + #543, #3967
+  static true2 + #544, #0
   static true2 + #545, #2048
   static true2 + #546, #2048
   static true2 + #547, #2048
-  static true2 + #548, #0
-  static true2 + #549, #1
-  static true2 + #550, #3967
+  static true2 + #548, #2048
+  static true2 + #549, #0
+  static true2 + #550, #1
   static true2 + #551, #3967
   static true2 + #552, #3967
   static true2 + #553, #3967
@@ -10704,27 +10704,27 @@ g_true2 : var #1200
   static true2 + #567, #3967
   static true2 + #568, #3967
   static true2 + #569, #3967
-  static true2 + #570, #0
-  static true2 + #571, #512
+  static true2 + #570, #3967
+  static true2 + #571, #0
   static true2 + #572, #512
   static true2 + #573, #512
   static true2 + #574, #512
-  static true2 + #575, #0
-  static true2 + #576, #2
-  static true2 + #577, #2049
-  static true2 + #578, #2165
-  static true2 + #579, #257
-  static true2 + #580, #2165
-  static true2 + #581, #2049
-  static true2 + #582, #2
-  static true2 + #583, #0
-  static true2 + #584, #2048
+  static true2 + #575, #512
+  static true2 + #576, #0
+  static true2 + #577, #2
+  static true2 + #578, #2049
+  static true2 + #579, #2165
+  static true2 + #580, #257
+  static true2 + #581, #2165
+  static true2 + #582, #2049
+  static true2 + #583, #2
+  static true2 + #584, #0
   static true2 + #585, #2048
   static true2 + #586, #2048
   static true2 + #587, #2048
-  static true2 + #588, #0
-  static true2 + #589, #1
-  static true2 + #590, #3967
+  static true2 + #588, #2048
+  static true2 + #589, #0
+  static true2 + #590, #1
   static true2 + #591, #3967
   static true2 + #592, #3967
   static true2 + #593, #3967
@@ -10745,28 +10745,28 @@ g_true2 : var #1200
   static true2 + #606, #3967
   static true2 + #607, #3967
   static true2 + #608, #3967
-  static true2 + #609, #2
-  static true2 + #610, #0
+  static true2 + #609, #3967
+  static true2 + #610, #2
   static true2 + #611, #0
   static true2 + #612, #0
   static true2 + #613, #0
   static true2 + #614, #0
   static true2 + #615, #0
-  static true2 + #616, #1
+  static true2 + #616, #0
   static true2 + #617, #1
-  static true2 + #618, #257
+  static true2 + #618, #1
   static true2 + #619, #257
   static true2 + #620, #257
-  static true2 + #621, #1
+  static true2 + #621, #257
   static true2 + #622, #1
-  static true2 + #623, #0
+  static true2 + #623, #1
   static true2 + #624, #0
   static true2 + #625, #0
   static true2 + #626, #0
   static true2 + #627, #0
   static true2 + #628, #0
-  static true2 + #629, #1
-  static true2 + #630, #3967
+  static true2 + #629, #0
+  static true2 + #630, #1
   static true2 + #631, #3967
   static true2 + #632, #3967
   static true2 + #633, #3967
@@ -10787,28 +10787,28 @@ g_true2 : var #1200
   static true2 + #646, #3967
   static true2 + #647, #3967
   static true2 + #648, #3967
-  static true2 + #649, #2
-  static true2 + #650, #0
-  static true2 + #651, #2048
+  static true2 + #649, #3967
+  static true2 + #650, #2
+  static true2 + #651, #0
   static true2 + #652, #2048
   static true2 + #653, #2048
   static true2 + #654, #2048
-  static true2 + #655, #0
-  static true2 + #656, #1
-  static true2 + #657, #3967
-  static true2 + #658, #257
-  static true2 + #659, #2159
-  static true2 + #660, #3967
-  static true2 + #661, #1
+  static true2 + #655, #2048
+  static true2 + #656, #0
+  static true2 + #657, #1
+  static true2 + #658, #3967
+  static true2 + #659, #257
+  static true2 + #660, #2159
+  static true2 + #661, #3967
   static true2 + #662, #1
-  static true2 + #663, #0
-  static true2 + #664, #2048
+  static true2 + #663, #1
+  static true2 + #664, #0
   static true2 + #665, #2048
   static true2 + #666, #2048
   static true2 + #667, #2048
-  static true2 + #668, #0
-  static true2 + #669, #1
-  static true2 + #670, #3967
+  static true2 + #668, #2048
+  static true2 + #669, #0
+  static true2 + #670, #1
   static true2 + #671, #3967
   static true2 + #672, #3967
   static true2 + #673, #3967
@@ -10829,27 +10829,27 @@ g_true2 : var #1200
   static true2 + #686, #3967
   static true2 + #687, #3967
   static true2 + #688, #3967
-  static true2 + #689, #1
-  static true2 + #690, #0
-  static true2 + #691, #2048
+  static true2 + #689, #3967
+  static true2 + #690, #1
+  static true2 + #691, #0
   static true2 + #692, #2048
   static true2 + #693, #2048
   static true2 + #694, #2048
-  static true2 + #695, #0
-  static true2 + #696, #1
-  static true2 + #697, #3967
+  static true2 + #695, #2048
+  static true2 + #696, #0
+  static true2 + #697, #1
   static true2 + #698, #3967
   static true2 + #699, #3967
   static true2 + #700, #3967
-  static true2 + #701, #1
+  static true2 + #701, #3967
   static true2 + #702, #1
-  static true2 + #703, #0
-  static true2 + #704, #2048
+  static true2 + #703, #1
+  static true2 + #704, #0
   static true2 + #705, #2048
   static true2 + #706, #2048
   static true2 + #707, #2048
-  static true2 + #708, #0
-  static true2 + #709, #3967
+  static true2 + #708, #2048
+  static true2 + #709, #0
   static true2 + #710, #3967
   static true2 + #711, #3967
   static true2 + #712, #3967
@@ -10871,27 +10871,27 @@ g_true2 : var #1200
   static true2 + #726, #3967
   static true2 + #727, #3967
   static true2 + #728, #3967
-  static true2 + #729, #2
-  static true2 + #730, #0
-  static true2 + #731, #2048
+  static true2 + #729, #3967
+  static true2 + #730, #2
+  static true2 + #731, #0
   static true2 + #732, #2048
   static true2 + #733, #2048
   static true2 + #734, #2048
   static true2 + #735, #2048
-  static true2 + #736, #0
-  static true2 + #737, #1
+  static true2 + #736, #2048
+  static true2 + #737, #0
   static true2 + #738, #1
   static true2 + #739, #1
   static true2 + #740, #1
   static true2 + #741, #1
-  static true2 + #742, #0
-  static true2 + #743, #2048
+  static true2 + #742, #1
+  static true2 + #743, #0
   static true2 + #744, #2048
   static true2 + #745, #2048
   static true2 + #746, #2048
   static true2 + #747, #2048
-  static true2 + #748, #0
-  static true2 + #749, #3967
+  static true2 + #748, #2048
+  static true2 + #749, #0
   static true2 + #750, #3967
   static true2 + #751, #3967
   static true2 + #752, #3967
@@ -10913,27 +10913,27 @@ g_true2 : var #1200
   static true2 + #766, #3967
   static true2 + #767, #3967
   static true2 + #768, #3967
-  static true2 + #769, #2
+  static true2 + #769, #3967
   static true2 + #770, #2
-  static true2 + #771, #0
-  static true2 + #772, #2048
+  static true2 + #771, #2
+  static true2 + #772, #0
   static true2 + #773, #2048
   static true2 + #774, #2048
   static true2 + #775, #2048
   static true2 + #776, #2048
-  static true2 + #777, #0
+  static true2 + #777, #2048
   static true2 + #778, #0
   static true2 + #779, #0
   static true2 + #780, #0
   static true2 + #781, #0
-  static true2 + #782, #2048
+  static true2 + #782, #0
   static true2 + #783, #2048
   static true2 + #784, #2048
   static true2 + #785, #2048
   static true2 + #786, #2048
-  static true2 + #787, #0
-  static true2 + #788, #2
-  static true2 + #789, #3967
+  static true2 + #787, #2048
+  static true2 + #788, #0
+  static true2 + #789, #2
   static true2 + #790, #3967
   static true2 + #791, #3967
   static true2 + #792, #3967
@@ -10954,28 +10954,28 @@ g_true2 : var #1200
   static true2 + #805, #3967
   static true2 + #806, #3967
   static true2 + #807, #3967
-  static true2 + #808, #2
+  static true2 + #808, #3967
   static true2 + #809, #2
   static true2 + #810, #2
-  static true2 + #811, #0
-  static true2 + #812, #2048
+  static true2 + #811, #2
+  static true2 + #812, #0
   static true2 + #813, #2048
   static true2 + #814, #2048
   static true2 + #815, #2048
   static true2 + #816, #2048
   static true2 + #817, #2048
   static true2 + #818, #2048
-  static true2 + #819, #0
-  static true2 + #820, #2048
+  static true2 + #819, #2048
+  static true2 + #820, #0
   static true2 + #821, #2048
   static true2 + #822, #2048
   static true2 + #823, #2048
   static true2 + #824, #2048
   static true2 + #825, #2048
   static true2 + #826, #2048
-  static true2 + #827, #0
-  static true2 + #828, #2
-  static true2 + #829, #3967
+  static true2 + #827, #2048
+  static true2 + #828, #0
+  static true2 + #829, #2
   static true2 + #830, #3967
   static true2 + #831, #3967
   static true2 + #832, #3967
@@ -10996,28 +10996,28 @@ g_true2 : var #1200
   static true2 + #845, #3967
   static true2 + #846, #3967
   static true2 + #847, #3967
-  static true2 + #848, #2
-  static true2 + #849, #3967
-  static true2 + #850, #2
-  static true2 + #851, #0
-  static true2 + #852, #2048
+  static true2 + #848, #3967
+  static true2 + #849, #2
+  static true2 + #850, #3967
+  static true2 + #851, #2
+  static true2 + #852, #0
   static true2 + #853, #2048
   static true2 + #854, #2048
   static true2 + #855, #2048
   static true2 + #856, #2048
   static true2 + #857, #2048
   static true2 + #858, #2048
-  static true2 + #859, #0
-  static true2 + #860, #2048
+  static true2 + #859, #2048
+  static true2 + #860, #0
   static true2 + #861, #2048
   static true2 + #862, #2048
   static true2 + #863, #2048
   static true2 + #864, #2048
   static true2 + #865, #2048
   static true2 + #866, #2048
-  static true2 + #867, #0
-  static true2 + #868, #2
-  static true2 + #869, #3967
+  static true2 + #867, #2048
+  static true2 + #868, #0
+  static true2 + #869, #2
   static true2 + #870, #3967
   static true2 + #871, #3967
   static true2 + #872, #3967
@@ -11038,29 +11038,29 @@ g_true2 : var #1200
   static true2 + #885, #3967
   static true2 + #886, #3967
   static true2 + #887, #3967
-  static true2 + #888, #2
+  static true2 + #888, #3967
   static true2 + #889, #2
   static true2 + #890, #2
   static true2 + #891, #2
-  static true2 + #892, #0
+  static true2 + #892, #2
   static true2 + #893, #0
-  static true2 + #894, #2048
+  static true2 + #894, #0
   static true2 + #895, #2048
   static true2 + #896, #2048
   static true2 + #897, #2048
   static true2 + #898, #2048
-  static true2 + #899, #0
-  static true2 + #900, #2048
+  static true2 + #899, #2048
+  static true2 + #900, #0
   static true2 + #901, #2048
   static true2 + #902, #2048
   static true2 + #903, #2048
   static true2 + #904, #2048
-  static true2 + #905, #0
+  static true2 + #905, #2048
   static true2 + #906, #0
-  static true2 + #907, #1
-  static true2 + #908, #2
+  static true2 + #907, #0
+  static true2 + #908, #1
   static true2 + #909, #2
-  static true2 + #910, #3967
+  static true2 + #910, #2
   static true2 + #911, #3967
   static true2 + #912, #3967
   static true2 + #913, #3967
@@ -11076,32 +11076,32 @@ g_true2 : var #1200
   static true2 + #921, #3967
   static true2 + #922, #3967
   static true2 + #923, #3967
-  static true2 + #924, #2
+  static true2 + #924, #3967
   static true2 + #925, #2
-  static true2 + #926, #3967
-  static true2 + #927, #2
+  static true2 + #926, #2
+  static true2 + #927, #3967
   static true2 + #928, #2
   static true2 + #929, #2
   static true2 + #930, #2
   static true2 + #931, #2
   static true2 + #932, #2
   static true2 + #933, #2
-  static true2 + #934, #0
+  static true2 + #934, #2
   static true2 + #935, #0
-  static true2 + #936, #2048
+  static true2 + #936, #0
   static true2 + #937, #2048
   static true2 + #938, #2048
-  static true2 + #939, #0
-  static true2 + #940, #2048
+  static true2 + #939, #2048
+  static true2 + #940, #0
   static true2 + #941, #2048
   static true2 + #942, #2048
-  static true2 + #943, #0
+  static true2 + #943, #2048
   static true2 + #944, #0
-  static true2 + #945, #2
-  static true2 + #946, #1
-  static true2 + #947, #2
+  static true2 + #945, #0
+  static true2 + #946, #2
+  static true2 + #947, #1
   static true2 + #948, #2
-  static true2 + #949, #3967
+  static true2 + #949, #2
   static true2 + #950, #3967
   static true2 + #951, #3967
   static true2 + #952, #3967
@@ -11118,30 +11118,30 @@ g_true2 : var #1200
   static true2 + #961, #3967
   static true2 + #962, #3967
   static true2 + #963, #3967
-  static true2 + #964, #2
+  static true2 + #964, #3967
   static true2 + #965, #2
-  static true2 + #966, #3967
-  static true2 + #967, #2
-  static true2 + #968, #3967
-  static true2 + #969, #2
+  static true2 + #966, #2
+  static true2 + #967, #3967
+  static true2 + #968, #2
+  static true2 + #969, #3967
   static true2 + #970, #2
-  static true2 + #971, #3967
-  static true2 + #972, #2
+  static true2 + #971, #2
+  static true2 + #972, #3967
   static true2 + #973, #2
   static true2 + #974, #2
   static true2 + #975, #2
-  static true2 + #976, #0
+  static true2 + #976, #2
   static true2 + #977, #0
   static true2 + #978, #0
   static true2 + #979, #0
   static true2 + #980, #0
   static true2 + #981, #0
   static true2 + #982, #0
-  static true2 + #983, #3967
-  static true2 + #984, #2
+  static true2 + #983, #0
+  static true2 + #984, #3967
   static true2 + #985, #2
   static true2 + #986, #2
-  static true2 + #987, #3967
+  static true2 + #987, #2
   static true2 + #988, #3967
   static true2 + #989, #3967
   static true2 + #990, #3967
@@ -11166,15 +11166,15 @@ g_true2 : var #1200
   static true2 + #1007, #3967
   static true2 + #1008, #3967
   static true2 + #1009, #3967
-  static true2 + #1010, #2
+  static true2 + #1010, #3967
   static true2 + #1011, #2
   static true2 + #1012, #2
   static true2 + #1013, #2
   static true2 + #1014, #2
   static true2 + #1015, #2
   static true2 + #1016, #2
-  static true2 + #1017, #3967
-  static true2 + #1018, #2
+  static true2 + #1017, #2
+  static true2 + #1018, #3967
   static true2 + #1019, #2
   static true2 + #1020, #2
   static true2 + #1021, #2
@@ -11183,7 +11183,7 @@ g_true2 : var #1200
   static true2 + #1024, #2
   static true2 + #1025, #2
   static true2 + #1026, #2
-  static true2 + #1027, #3967
+  static true2 + #1027, #2
   static true2 + #1028, #3967
   static true2 + #1029, #3967
   static true2 + #1030, #3967
@@ -11200,39 +11200,39 @@ g_true2 : var #1200
   ;Linha 26
   static true2 + #1040, #3967
   static true2 + #1041, #3967
-  static true2 + #1042, #2115
-  static true2 + #1043, #2127
-  static true2 + #1044, #2126
-  static true2 + #1045, #2132
-  static true2 + #1046, #2121
-  static true2 + #1047, #2126
-  static true2 + #1048, #2133
-  static true2 + #1049, #2113
-  static true2 + #1050, #2130
-  static true2 + #1051, #2561
+  static true2 + #1042, #3967
+  static true2 + #1043, #2115
+  static true2 + #1044, #2127
+  static true2 + #1045, #2126
+  static true2 + #1046, #2132
+  static true2 + #1047, #2121
+  static true2 + #1048, #2126
+  static true2 + #1049, #2133
+  static true2 + #1050, #2113
+  static true2 + #1051, #2130
   static true2 + #1052, #2561
-  static true2 + #1053, #2
+  static true2 + #1053, #2561
   static true2 + #1054, #2
   static true2 + #1055, #2
   static true2 + #1056, #2
-  static true2 + #1057, #257
+  static true2 + #1057, #2
   static true2 + #1058, #257
   static true2 + #1059, #257
   static true2 + #1060, #257
   static true2 + #1061, #257
   static true2 + #1062, #257
-  static true2 + #1063, #3967
+  static true2 + #1063, #257
   static true2 + #1064, #3967
-  static true2 + #1065, #2
-  static true2 + #1066, #3967
+  static true2 + #1065, #3967
+  static true2 + #1066, #2
   static true2 + #1067, #3967
   static true2 + #1068, #3967
   static true2 + #1069, #3967
-  static true2 + #1070, #2131
-  static true2 + #1071, #2113
-  static true2 + #1072, #2121
-  static true2 + #1073, #2130
-  static true2 + #1074, #3967
+  static true2 + #1070, #3967
+  static true2 + #1071, #2131
+  static true2 + #1072, #2113
+  static true2 + #1073, #2121
+  static true2 + #1074, #2130
   static true2 + #1075, #3967
   static true2 + #1076, #3967
   static true2 + #1077, #3967
@@ -11242,17 +11242,17 @@ g_true2 : var #1200
   ;Linha 27
   static true2 + #1080, #3967
   static true2 + #1081, #3967
-  static true2 + #1082, #2049
+  static true2 + #1082, #3967
   static true2 + #1083, #2049
   static true2 + #1084, #2049
   static true2 + #1085, #2049
-  static true2 + #1086, #3967
+  static true2 + #1086, #2049
   static true2 + #1087, #3967
   static true2 + #1088, #3967
   static true2 + #1089, #3967
   static true2 + #1090, #3967
   static true2 + #1091, #3967
-  static true2 + #1092, #257
+  static true2 + #1092, #3967
   static true2 + #1093, #257
   static true2 + #1094, #257
   static true2 + #1095, #257
@@ -11265,7 +11265,7 @@ g_true2 : var #1200
   static true2 + #1102, #257
   static true2 + #1103, #257
   static true2 + #1104, #257
-  static true2 + #1105, #3967
+  static true2 + #1105, #257
   static true2 + #1106, #3967
   static true2 + #1107, #3967
   static true2 + #1108, #3967
@@ -11285,14 +11285,14 @@ g_true2 : var #1200
   static true2 + #1120, #3967
   static true2 + #1121, #3967
   static true2 + #1122, #3967
-  static true2 + #1123, #2139
-  static true2 + #1124, #2117
-  static true2 + #1125, #2126
-  static true2 + #1126, #2132
-  static true2 + #1127, #2117
-  static true2 + #1128, #2130
-  static true2 + #1129, #2141
-  static true2 + #1130, #3967
+  static true2 + #1123, #3967
+  static true2 + #1124, #2139
+  static true2 + #1125, #2117
+  static true2 + #1126, #2126
+  static true2 + #1127, #2132
+  static true2 + #1128, #2117
+  static true2 + #1129, #2130
+  static true2 + #1130, #2141
   static true2 + #1131, #3967
   static true2 + #1132, #3967
   static true2 + #1133, #3967
@@ -11312,10 +11312,10 @@ g_true2 : var #1200
   static true2 + #1147, #3967
   static true2 + #1148, #3967
   static true2 + #1149, #3967
-  static true2 + #1150, #2139
-  static true2 + #1151, #2131
-  static true2 + #1152, #2141
-  static true2 + #1153, #3967
+  static true2 + #1150, #3967
+  static true2 + #1151, #2139
+  static true2 + #1152, #2131
+  static true2 + #1153, #2141
   static true2 + #1154, #3967
   static true2 + #1155, #3967
   static true2 + #1156, #3967
@@ -11367,7 +11367,7 @@ g_true2 : var #1200
 
 ;===========Tela True 3================
 
-g_true3 : var #1200
+true3 : var #1200
   ;Linha 0
   static true3 + #0, #3967
   static true3 + #1, #3967
@@ -11468,8 +11468,8 @@ g_true3 : var #1200
   static true3 + #92, #3967
   static true3 + #93, #3967
   static true3 + #94, #3967
-  static true3 + #95, #2142
-  static true3 + #96, #3967
+  static true3 + #95, #3967
+  static true3 + #96, #2142
   static true3 + #97, #3967
   static true3 + #98, #3967
   static true3 + #99, #3967
@@ -11507,22 +11507,22 @@ g_true3 : var #1200
   static true3 + #129, #3967
   static true3 + #130, #3967
   static true3 + #131, #3967
-  static true3 + #132, #2134
-  static true3 + #133, #2127
-  static true3 + #134, #2147
-  static true3 + #135, #2117
-  static true3 + #136, #3967
-  static true3 + #137, #2115
-  static true3 + #138, #2127
-  static true3 + #139, #2126
-  static true3 + #140, #2131
-  static true3 + #141, #2117
-  static true3 + #142, #2119
-  static true3 + #143, #2133
-  static true3 + #144, #2121
-  static true3 + #145, #2133
-  static true3 + #146, #2081
-  static true3 + #147, #3967
+  static true3 + #132, #3967
+  static true3 + #133, #2134
+  static true3 + #134, #2127
+  static true3 + #135, #2147
+  static true3 + #136, #2117
+  static true3 + #137, #3967
+  static true3 + #138, #2115
+  static true3 + #139, #2127
+  static true3 + #140, #2126
+  static true3 + #141, #2131
+  static true3 + #142, #2117
+  static true3 + #143, #2119
+  static true3 + #144, #2133
+  static true3 + #145, #2121
+  static true3 + #146, #2133
+  static true3 + #147, #2081
   static true3 + #148, #3967
   static true3 + #149, #3967
   static true3 + #150, #3967
@@ -11548,18 +11548,18 @@ g_true3 : var #1200
   static true3 + #168, #3967
   static true3 + #169, #3967
   static true3 + #170, #3967
-  static true3 + #171, #1
-  static true3 + #172, #3967
+  static true3 + #171, #3967
+  static true3 + #172, #1
   static true3 + #173, #3967
   static true3 + #174, #3967
   static true3 + #175, #3967
   static true3 + #176, #3967
-  static true3 + #177, #1
+  static true3 + #177, #3967
   static true3 + #178, #1
   static true3 + #179, #1
   static true3 + #180, #1
   static true3 + #181, #1
-  static true3 + #182, #3967
+  static true3 + #182, #1
   static true3 + #183, #3967
   static true3 + #184, #3967
   static true3 + #185, #3967
@@ -11590,11 +11590,11 @@ g_true3 : var #1200
   static true3 + #208, #3967
   static true3 + #209, #3967
   static true3 + #210, #3967
-  static true3 + #211, #1
-  static true3 + #212, #3967
+  static true3 + #211, #3967
+  static true3 + #212, #1
   static true3 + #213, #3967
   static true3 + #214, #3967
-  static true3 + #215, #1
+  static true3 + #215, #3967
   static true3 + #216, #1
   static true3 + #217, #1
   static true3 + #218, #1
@@ -11603,7 +11603,7 @@ g_true3 : var #1200
   static true3 + #221, #1
   static true3 + #222, #1
   static true3 + #223, #1
-  static true3 + #224, #3967
+  static true3 + #224, #1
   static true3 + #225, #3967
   static true3 + #226, #3967
   static true3 + #227, #3967
@@ -11632,21 +11632,21 @@ g_true3 : var #1200
   static true3 + #248, #3967
   static true3 + #249, #3967
   static true3 + #250, #3967
-  static true3 + #251, #1
+  static true3 + #251, #3967
   static true3 + #252, #1
   static true3 + #253, #1
   static true3 + #254, #1
   static true3 + #255, #1
-  static true3 + #256, #0
+  static true3 + #256, #1
   static true3 + #257, #0
   static true3 + #258, #0
   static true3 + #259, #0
   static true3 + #260, #0
   static true3 + #261, #0
   static true3 + #262, #0
-  static true3 + #263, #1
+  static true3 + #263, #0
   static true3 + #264, #1
-  static true3 + #265, #3967
+  static true3 + #265, #1
   static true3 + #266, #3967
   static true3 + #267, #3967
   static true3 + #268, #3967
@@ -11674,23 +11674,23 @@ g_true3 : var #1200
   static true3 + #288, #3967
   static true3 + #289, #3967
   static true3 + #290, #3967
-  static true3 + #291, #1
+  static true3 + #291, #3967
   static true3 + #292, #1
   static true3 + #293, #1
-  static true3 + #294, #0
+  static true3 + #294, #1
   static true3 + #295, #0
-  static true3 + #296, #512
+  static true3 + #296, #0
   static true3 + #297, #512
   static true3 + #298, #512
-  static true3 + #299, #0
-  static true3 + #300, #2048
+  static true3 + #299, #512
+  static true3 + #300, #0
   static true3 + #301, #2048
   static true3 + #302, #2048
-  static true3 + #303, #0
+  static true3 + #303, #2048
   static true3 + #304, #0
-  static true3 + #305, #1
+  static true3 + #305, #0
   static true3 + #306, #1
-  static true3 + #307, #3967
+  static true3 + #307, #1
   static true3 + #308, #3967
   static true3 + #309, #3967
   static true3 + #310, #3967
@@ -11715,26 +11715,26 @@ g_true3 : var #1200
   static true3 + #327, #3967
   static true3 + #328, #3967
   static true3 + #329, #3967
-  static true3 + #330, #1
+  static true3 + #330, #3967
   static true3 + #331, #1
-  static true3 + #332, #0
+  static true3 + #332, #1
   static true3 + #333, #0
-  static true3 + #334, #512
+  static true3 + #334, #0
   static true3 + #335, #512
   static true3 + #336, #512
   static true3 + #337, #512
   static true3 + #338, #512
-  static true3 + #339, #0
-  static true3 + #340, #2048
+  static true3 + #339, #512
+  static true3 + #340, #0
   static true3 + #341, #2048
   static true3 + #342, #2048
   static true3 + #343, #2048
   static true3 + #344, #2048
-  static true3 + #345, #0
+  static true3 + #345, #2048
   static true3 + #346, #0
-  static true3 + #347, #1
+  static true3 + #347, #0
   static true3 + #348, #1
-  static true3 + #349, #3967
+  static true3 + #349, #1
   static true3 + #350, #3967
   static true3 + #351, #3967
   static true3 + #352, #3967
@@ -11757,25 +11757,25 @@ g_true3 : var #1200
   static true3 + #367, #3967
   static true3 + #368, #3967
   static true3 + #369, #3967
-  static true3 + #370, #1
-  static true3 + #371, #0
-  static true3 + #372, #512
+  static true3 + #370, #3967
+  static true3 + #371, #1
+  static true3 + #372, #0
   static true3 + #373, #512
   static true3 + #374, #512
   static true3 + #375, #512
   static true3 + #376, #512
   static true3 + #377, #512
   static true3 + #378, #512
-  static true3 + #379, #0
-  static true3 + #380, #2048
+  static true3 + #379, #512
+  static true3 + #380, #0
   static true3 + #381, #2048
   static true3 + #382, #2048
   static true3 + #383, #2048
   static true3 + #384, #2048
   static true3 + #385, #2048
   static true3 + #386, #2048
-  static true3 + #387, #0
-  static true3 + #388, #3967
+  static true3 + #387, #2048
+  static true3 + #388, #0
   static true3 + #389, #3967
   static true3 + #390, #3967
   static true3 + #391, #3967
@@ -11798,26 +11798,26 @@ g_true3 : var #1200
   static true3 + #406, #3967
   static true3 + #407, #3967
   static true3 + #408, #3967
-  static true3 + #409, #1
+  static true3 + #409, #3967
   static true3 + #410, #1
-  static true3 + #411, #0
-  static true3 + #412, #512
+  static true3 + #411, #1
+  static true3 + #412, #0
   static true3 + #413, #512
   static true3 + #414, #512
   static true3 + #415, #512
   static true3 + #416, #512
   static true3 + #417, #512
   static true3 + #418, #512
-  static true3 + #419, #0
-  static true3 + #420, #2048
+  static true3 + #419, #512
+  static true3 + #420, #0
   static true3 + #421, #2048
   static true3 + #422, #2048
   static true3 + #423, #2048
   static true3 + #424, #2048
   static true3 + #425, #2048
   static true3 + #426, #2048
-  static true3 + #427, #0
-  static true3 + #428, #3967
+  static true3 + #427, #2048
+  static true3 + #428, #0
   static true3 + #429, #3967
   static true3 + #430, #3967
   static true3 + #431, #3967
@@ -11840,27 +11840,27 @@ g_true3 : var #1200
   static true3 + #446, #3967
   static true3 + #447, #3967
   static true3 + #448, #3967
-  static true3 + #449, #1
+  static true3 + #449, #3967
   static true3 + #450, #1
-  static true3 + #451, #0
-  static true3 + #452, #512
+  static true3 + #451, #1
+  static true3 + #452, #0
   static true3 + #453, #512
   static true3 + #454, #512
   static true3 + #455, #512
   static true3 + #456, #512
-  static true3 + #457, #0
+  static true3 + #457, #512
   static true3 + #458, #0
   static true3 + #459, #0
   static true3 + #460, #0
   static true3 + #461, #0
-  static true3 + #462, #2048
+  static true3 + #462, #0
   static true3 + #463, #2048
   static true3 + #464, #2048
   static true3 + #465, #2048
   static true3 + #466, #2048
-  static true3 + #467, #0
-  static true3 + #468, #1
-  static true3 + #469, #3967
+  static true3 + #467, #2048
+  static true3 + #468, #0
+  static true3 + #469, #1
   static true3 + #470, #3967
   static true3 + #471, #3967
   static true3 + #472, #3967
@@ -11882,27 +11882,27 @@ g_true3 : var #1200
   static true3 + #486, #3967
   static true3 + #487, #3967
   static true3 + #488, #3967
-  static true3 + #489, #1
-  static true3 + #490, #0
-  static true3 + #491, #512
+  static true3 + #489, #3967
+  static true3 + #490, #1
+  static true3 + #491, #0
   static true3 + #492, #512
   static true3 + #493, #512
   static true3 + #494, #512
   static true3 + #495, #512
-  static true3 + #496, #0
-  static true3 + #497, #4
-  static true3 + #498, #2049
-  static true3 + #499, #1
-  static true3 + #500, #2
+  static true3 + #496, #512
+  static true3 + #497, #0
+  static true3 + #498, #4
+  static true3 + #499, #2049
+  static true3 + #500, #1
   static true3 + #501, #2
-  static true3 + #502, #0
-  static true3 + #503, #2048
+  static true3 + #502, #2
+  static true3 + #503, #0
   static true3 + #504, #2048
   static true3 + #505, #2048
   static true3 + #506, #2048
   static true3 + #507, #2048
-  static true3 + #508, #0
-  static true3 + #509, #3967
+  static true3 + #508, #2048
+  static true3 + #509, #0
   static true3 + #510, #3967
   static true3 + #511, #3967
   static true3 + #512, #3967
@@ -11924,28 +11924,28 @@ g_true3 : var #1200
   static true3 + #526, #3967
   static true3 + #527, #3967
   static true3 + #528, #3967
-  static true3 + #529, #1
-  static true3 + #530, #0
-  static true3 + #531, #512
+  static true3 + #529, #3967
+  static true3 + #530, #1
+  static true3 + #531, #0
   static true3 + #532, #512
   static true3 + #533, #512
   static true3 + #534, #512
-  static true3 + #535, #0
-  static true3 + #536, #2
+  static true3 + #535, #512
+  static true3 + #536, #0
   static true3 + #537, #2
-  static true3 + #538, #2142
-  static true3 + #539, #2
-  static true3 + #540, #2142
-  static true3 + #541, #2
-  static true3 + #542, #3967
-  static true3 + #543, #0
-  static true3 + #544, #2048
+  static true3 + #538, #2
+  static true3 + #539, #2142
+  static true3 + #540, #2
+  static true3 + #541, #2142
+  static true3 + #542, #2
+  static true3 + #543, #3967
+  static true3 + #544, #0
   static true3 + #545, #2048
   static true3 + #546, #2048
   static true3 + #547, #2048
-  static true3 + #548, #0
-  static true3 + #549, #1
-  static true3 + #550, #3967
+  static true3 + #548, #2048
+  static true3 + #549, #0
+  static true3 + #550, #1
   static true3 + #551, #3967
   static true3 + #552, #3967
   static true3 + #553, #3967
@@ -11967,27 +11967,27 @@ g_true3 : var #1200
   static true3 + #567, #3967
   static true3 + #568, #3967
   static true3 + #569, #3967
-  static true3 + #570, #0
-  static true3 + #571, #512
+  static true3 + #570, #3967
+  static true3 + #571, #0
   static true3 + #572, #512
   static true3 + #573, #512
   static true3 + #574, #512
-  static true3 + #575, #0
-  static true3 + #576, #2
-  static true3 + #577, #2049
-  static true3 + #578, #2159
-  static true3 + #579, #257
-  static true3 + #580, #2159
-  static true3 + #581, #2049
-  static true3 + #582, #2
-  static true3 + #583, #0
-  static true3 + #584, #2048
+  static true3 + #575, #512
+  static true3 + #576, #0
+  static true3 + #577, #2
+  static true3 + #578, #2049
+  static true3 + #579, #2159
+  static true3 + #580, #257
+  static true3 + #581, #2159
+  static true3 + #582, #2049
+  static true3 + #583, #2
+  static true3 + #584, #0
   static true3 + #585, #2048
   static true3 + #586, #2048
   static true3 + #587, #2048
-  static true3 + #588, #0
-  static true3 + #589, #1
-  static true3 + #590, #3967
+  static true3 + #588, #2048
+  static true3 + #589, #0
+  static true3 + #590, #1
   static true3 + #591, #3967
   static true3 + #592, #3967
   static true3 + #593, #3967
@@ -12008,28 +12008,28 @@ g_true3 : var #1200
   static true3 + #606, #3967
   static true3 + #607, #3967
   static true3 + #608, #3967
-  static true3 + #609, #2
-  static true3 + #610, #0
+  static true3 + #609, #3967
+  static true3 + #610, #2
   static true3 + #611, #0
   static true3 + #612, #0
   static true3 + #613, #0
   static true3 + #614, #0
   static true3 + #615, #0
-  static true3 + #616, #1
+  static true3 + #616, #0
   static true3 + #617, #1
-  static true3 + #618, #257
+  static true3 + #618, #1
   static true3 + #619, #257
   static true3 + #620, #257
-  static true3 + #621, #1
+  static true3 + #621, #257
   static true3 + #622, #1
-  static true3 + #623, #0
+  static true3 + #623, #1
   static true3 + #624, #0
   static true3 + #625, #0
   static true3 + #626, #0
   static true3 + #627, #0
   static true3 + #628, #0
-  static true3 + #629, #1
-  static true3 + #630, #3967
+  static true3 + #629, #0
+  static true3 + #630, #1
   static true3 + #631, #3967
   static true3 + #632, #3967
   static true3 + #633, #3967
@@ -12050,28 +12050,28 @@ g_true3 : var #1200
   static true3 + #646, #3967
   static true3 + #647, #3967
   static true3 + #648, #3967
-  static true3 + #649, #2
-  static true3 + #650, #0
-  static true3 + #651, #2304
+  static true3 + #649, #3967
+  static true3 + #650, #2
+  static true3 + #651, #0
   static true3 + #652, #2304
   static true3 + #653, #2304
   static true3 + #654, #2304
-  static true3 + #655, #0
-  static true3 + #656, #1
-  static true3 + #657, #3967
-  static true3 + #658, #2049
-  static true3 + #659, #2062
-  static true3 + #660, #2049
-  static true3 + #661, #1
+  static true3 + #655, #2304
+  static true3 + #656, #0
+  static true3 + #657, #1
+  static true3 + #658, #3967
+  static true3 + #659, #2049
+  static true3 + #660, #2062
+  static true3 + #661, #2049
   static true3 + #662, #1
-  static true3 + #663, #0
-  static true3 + #664, #2048
+  static true3 + #663, #1
+  static true3 + #664, #0
   static true3 + #665, #2048
   static true3 + #666, #2048
   static true3 + #667, #2048
-  static true3 + #668, #0
-  static true3 + #669, #1
-  static true3 + #670, #3967
+  static true3 + #668, #2048
+  static true3 + #669, #0
+  static true3 + #670, #1
   static true3 + #671, #3967
   static true3 + #672, #3967
   static true3 + #673, #3967
@@ -12092,27 +12092,27 @@ g_true3 : var #1200
   static true3 + #686, #3967
   static true3 + #687, #3967
   static true3 + #688, #3967
-  static true3 + #689, #1
-  static true3 + #690, #0
-  static true3 + #691, #2304
+  static true3 + #689, #3967
+  static true3 + #690, #1
+  static true3 + #691, #0
   static true3 + #692, #2304
   static true3 + #693, #2304
   static true3 + #694, #2304
-  static true3 + #695, #0
-  static true3 + #696, #1
-  static true3 + #697, #3967
+  static true3 + #695, #2304
+  static true3 + #696, #0
+  static true3 + #697, #1
   static true3 + #698, #3967
-  static true3 + #699, #2049
-  static true3 + #700, #3967
-  static true3 + #701, #1
+  static true3 + #699, #3967
+  static true3 + #700, #2049
+  static true3 + #701, #3967
   static true3 + #702, #1
-  static true3 + #703, #0
-  static true3 + #704, #2048
+  static true3 + #703, #1
+  static true3 + #704, #0
   static true3 + #705, #2048
   static true3 + #706, #2048
   static true3 + #707, #2048
-  static true3 + #708, #0
-  static true3 + #709, #3967
+  static true3 + #708, #2048
+  static true3 + #709, #0
   static true3 + #710, #3967
   static true3 + #711, #3967
   static true3 + #712, #3967
@@ -12134,27 +12134,27 @@ g_true3 : var #1200
   static true3 + #726, #3967
   static true3 + #727, #3967
   static true3 + #728, #3967
-  static true3 + #729, #2
-  static true3 + #730, #0
-  static true3 + #731, #2304
+  static true3 + #729, #3967
+  static true3 + #730, #2
+  static true3 + #731, #0
   static true3 + #732, #2304
   static true3 + #733, #2304
   static true3 + #734, #2304
   static true3 + #735, #2304
-  static true3 + #736, #0
-  static true3 + #737, #1
+  static true3 + #736, #2304
+  static true3 + #737, #0
   static true3 + #738, #1
   static true3 + #739, #1
   static true3 + #740, #1
   static true3 + #741, #1
-  static true3 + #742, #0
-  static true3 + #743, #2048
+  static true3 + #742, #1
+  static true3 + #743, #0
   static true3 + #744, #2048
   static true3 + #745, #2048
   static true3 + #746, #2048
   static true3 + #747, #2048
-  static true3 + #748, #0
-  static true3 + #749, #3967
+  static true3 + #748, #2048
+  static true3 + #749, #0
   static true3 + #750, #3967
   static true3 + #751, #3967
   static true3 + #752, #3967
@@ -12176,27 +12176,27 @@ g_true3 : var #1200
   static true3 + #766, #3967
   static true3 + #767, #3967
   static true3 + #768, #3967
-  static true3 + #769, #2
+  static true3 + #769, #3967
   static true3 + #770, #2
-  static true3 + #771, #0
-  static true3 + #772, #2304
+  static true3 + #771, #2
+  static true3 + #772, #0
   static true3 + #773, #2304
   static true3 + #774, #2304
   static true3 + #775, #2304
   static true3 + #776, #2304
-  static true3 + #777, #0
+  static true3 + #777, #2304
   static true3 + #778, #0
   static true3 + #779, #0
   static true3 + #780, #0
   static true3 + #781, #0
-  static true3 + #782, #2048
+  static true3 + #782, #0
   static true3 + #783, #2048
   static true3 + #784, #2048
   static true3 + #785, #2048
   static true3 + #786, #2048
-  static true3 + #787, #0
-  static true3 + #788, #2
-  static true3 + #789, #3967
+  static true3 + #787, #2048
+  static true3 + #788, #0
+  static true3 + #789, #2
   static true3 + #790, #3967
   static true3 + #791, #3967
   static true3 + #792, #3967
@@ -12217,28 +12217,28 @@ g_true3 : var #1200
   static true3 + #805, #3967
   static true3 + #806, #3967
   static true3 + #807, #3967
-  static true3 + #808, #2
+  static true3 + #808, #3967
   static true3 + #809, #2
   static true3 + #810, #2
-  static true3 + #811, #0
-  static true3 + #812, #2304
+  static true3 + #811, #2
+  static true3 + #812, #0
   static true3 + #813, #2304
   static true3 + #814, #2304
   static true3 + #815, #2304
   static true3 + #816, #2304
   static true3 + #817, #2304
   static true3 + #818, #2304
-  static true3 + #819, #0
-  static true3 + #820, #2048
+  static true3 + #819, #2304
+  static true3 + #820, #0
   static true3 + #821, #2048
   static true3 + #822, #2048
   static true3 + #823, #2048
   static true3 + #824, #2048
   static true3 + #825, #2048
   static true3 + #826, #2048
-  static true3 + #827, #0
-  static true3 + #828, #2
-  static true3 + #829, #3967
+  static true3 + #827, #2048
+  static true3 + #828, #0
+  static true3 + #829, #2
   static true3 + #830, #3967
   static true3 + #831, #3967
   static true3 + #832, #3967
@@ -12259,28 +12259,28 @@ g_true3 : var #1200
   static true3 + #845, #3967
   static true3 + #846, #3967
   static true3 + #847, #3967
-  static true3 + #848, #2
-  static true3 + #849, #3967
-  static true3 + #850, #2
-  static true3 + #851, #0
-  static true3 + #852, #2304
+  static true3 + #848, #3967
+  static true3 + #849, #2
+  static true3 + #850, #3967
+  static true3 + #851, #2
+  static true3 + #852, #0
   static true3 + #853, #2304
   static true3 + #854, #2304
   static true3 + #855, #2304
   static true3 + #856, #2304
   static true3 + #857, #2304
   static true3 + #858, #2304
-  static true3 + #859, #0
-  static true3 + #860, #2048
+  static true3 + #859, #2304
+  static true3 + #860, #0
   static true3 + #861, #2048
   static true3 + #862, #2048
   static true3 + #863, #2048
   static true3 + #864, #2048
   static true3 + #865, #2048
   static true3 + #866, #2048
-  static true3 + #867, #0
-  static true3 + #868, #2
-  static true3 + #869, #3967
+  static true3 + #867, #2048
+  static true3 + #868, #0
+  static true3 + #869, #2
   static true3 + #870, #3967
   static true3 + #871, #3967
   static true3 + #872, #3967
@@ -12301,29 +12301,29 @@ g_true3 : var #1200
   static true3 + #885, #3967
   static true3 + #886, #3967
   static true3 + #887, #3967
-  static true3 + #888, #2
+  static true3 + #888, #3967
   static true3 + #889, #2
   static true3 + #890, #2
   static true3 + #891, #2
-  static true3 + #892, #0
+  static true3 + #892, #2
   static true3 + #893, #0
-  static true3 + #894, #2304
+  static true3 + #894, #0
   static true3 + #895, #2304
   static true3 + #896, #2304
   static true3 + #897, #2304
   static true3 + #898, #2304
-  static true3 + #899, #0
-  static true3 + #900, #2048
+  static true3 + #899, #2304
+  static true3 + #900, #0
   static true3 + #901, #2048
   static true3 + #902, #2048
   static true3 + #903, #2048
   static true3 + #904, #2048
-  static true3 + #905, #0
+  static true3 + #905, #2048
   static true3 + #906, #0
-  static true3 + #907, #1
-  static true3 + #908, #2
+  static true3 + #907, #0
+  static true3 + #908, #1
   static true3 + #909, #2
-  static true3 + #910, #3967
+  static true3 + #910, #2
   static true3 + #911, #3967
   static true3 + #912, #3967
   static true3 + #913, #3967
@@ -12339,32 +12339,32 @@ g_true3 : var #1200
   static true3 + #921, #3967
   static true3 + #922, #3967
   static true3 + #923, #3967
-  static true3 + #924, #2
+  static true3 + #924, #3967
   static true3 + #925, #2
-  static true3 + #926, #3967
-  static true3 + #927, #2
+  static true3 + #926, #2
+  static true3 + #927, #3967
   static true3 + #928, #2
   static true3 + #929, #2
   static true3 + #930, #2
   static true3 + #931, #2
   static true3 + #932, #2
   static true3 + #933, #2
-  static true3 + #934, #0
+  static true3 + #934, #2
   static true3 + #935, #0
-  static true3 + #936, #2304
+  static true3 + #936, #0
   static true3 + #937, #2304
   static true3 + #938, #2304
-  static true3 + #939, #0
-  static true3 + #940, #2048
+  static true3 + #939, #2304
+  static true3 + #940, #0
   static true3 + #941, #2048
   static true3 + #942, #2048
-  static true3 + #943, #0
+  static true3 + #943, #2048
   static true3 + #944, #0
-  static true3 + #945, #2
-  static true3 + #946, #1
-  static true3 + #947, #2
+  static true3 + #945, #0
+  static true3 + #946, #2
+  static true3 + #947, #1
   static true3 + #948, #2
-  static true3 + #949, #3967
+  static true3 + #949, #2
   static true3 + #950, #3967
   static true3 + #951, #3967
   static true3 + #952, #3967
@@ -12381,30 +12381,30 @@ g_true3 : var #1200
   static true3 + #961, #3967
   static true3 + #962, #3967
   static true3 + #963, #3967
-  static true3 + #964, #2
+  static true3 + #964, #3967
   static true3 + #965, #2
-  static true3 + #966, #3967
-  static true3 + #967, #2
-  static true3 + #968, #3967
-  static true3 + #969, #2
+  static true3 + #966, #2
+  static true3 + #967, #3967
+  static true3 + #968, #2
+  static true3 + #969, #3967
   static true3 + #970, #2
-  static true3 + #971, #3967
-  static true3 + #972, #2
+  static true3 + #971, #2
+  static true3 + #972, #3967
   static true3 + #973, #2
   static true3 + #974, #2
   static true3 + #975, #2
-  static true3 + #976, #0
+  static true3 + #976, #2
   static true3 + #977, #0
   static true3 + #978, #0
   static true3 + #979, #0
   static true3 + #980, #0
   static true3 + #981, #0
   static true3 + #982, #0
-  static true3 + #983, #3967
-  static true3 + #984, #2
+  static true3 + #983, #0
+  static true3 + #984, #3967
   static true3 + #985, #2
   static true3 + #986, #2
-  static true3 + #987, #3967
+  static true3 + #987, #2
   static true3 + #988, #3967
   static true3 + #989, #3967
   static true3 + #990, #3967
@@ -12429,15 +12429,15 @@ g_true3 : var #1200
   static true3 + #1007, #3967
   static true3 + #1008, #3967
   static true3 + #1009, #3967
-  static true3 + #1010, #2
+  static true3 + #1010, #3967
   static true3 + #1011, #2
   static true3 + #1012, #2
   static true3 + #1013, #2
   static true3 + #1014, #2
   static true3 + #1015, #2
   static true3 + #1016, #2
-  static true3 + #1017, #3967
-  static true3 + #1018, #2
+  static true3 + #1017, #2
+  static true3 + #1018, #3967
   static true3 + #1019, #2
   static true3 + #1020, #2
   static true3 + #1021, #2
@@ -12446,7 +12446,7 @@ g_true3 : var #1200
   static true3 + #1024, #2
   static true3 + #1025, #2
   static true3 + #1026, #2
-  static true3 + #1027, #3967
+  static true3 + #1027, #2
   static true3 + #1028, #3967
   static true3 + #1029, #3967
   static true3 + #1030, #3967
@@ -12463,39 +12463,39 @@ g_true3 : var #1200
   ;Linha 26
   static true3 + #1040, #3967
   static true3 + #1041, #3967
-  static true3 + #1042, #2115
-  static true3 + #1043, #2127
-  static true3 + #1044, #2126
-  static true3 + #1045, #2132
-  static true3 + #1046, #2121
-  static true3 + #1047, #2126
-  static true3 + #1048, #2133
-  static true3 + #1049, #2113
-  static true3 + #1050, #2130
-  static true3 + #1051, #2561
+  static true3 + #1042, #3967
+  static true3 + #1043, #2115
+  static true3 + #1044, #2127
+  static true3 + #1045, #2126
+  static true3 + #1046, #2132
+  static true3 + #1047, #2121
+  static true3 + #1048, #2126
+  static true3 + #1049, #2133
+  static true3 + #1050, #2113
+  static true3 + #1051, #2130
   static true3 + #1052, #2561
-  static true3 + #1053, #2
+  static true3 + #1053, #2561
   static true3 + #1054, #2
   static true3 + #1055, #2
   static true3 + #1056, #2
-  static true3 + #1057, #257
+  static true3 + #1057, #2
   static true3 + #1058, #257
   static true3 + #1059, #257
   static true3 + #1060, #257
   static true3 + #1061, #257
   static true3 + #1062, #257
-  static true3 + #1063, #3967
+  static true3 + #1063, #257
   static true3 + #1064, #3967
-  static true3 + #1065, #2
-  static true3 + #1066, #3967
+  static true3 + #1065, #3967
+  static true3 + #1066, #2
   static true3 + #1067, #3967
   static true3 + #1068, #3967
   static true3 + #1069, #3967
-  static true3 + #1070, #2131
-  static true3 + #1071, #2113
-  static true3 + #1072, #2121
-  static true3 + #1073, #2130
-  static true3 + #1074, #3967
+  static true3 + #1070, #3967
+  static true3 + #1071, #2131
+  static true3 + #1072, #2113
+  static true3 + #1073, #2121
+  static true3 + #1074, #2130
   static true3 + #1075, #3967
   static true3 + #1076, #3967
   static true3 + #1077, #3967
@@ -12505,17 +12505,17 @@ g_true3 : var #1200
   ;Linha 27
   static true3 + #1080, #3967
   static true3 + #1081, #3967
-  static true3 + #1082, #2049
+  static true3 + #1082, #3967
   static true3 + #1083, #2049
   static true3 + #1084, #2049
   static true3 + #1085, #2049
-  static true3 + #1086, #3967
+  static true3 + #1086, #2049
   static true3 + #1087, #3967
   static true3 + #1088, #3967
   static true3 + #1089, #3967
   static true3 + #1090, #3967
   static true3 + #1091, #3967
-  static true3 + #1092, #257
+  static true3 + #1092, #3967
   static true3 + #1093, #257
   static true3 + #1094, #257
   static true3 + #1095, #257
@@ -12528,7 +12528,7 @@ g_true3 : var #1200
   static true3 + #1102, #257
   static true3 + #1103, #257
   static true3 + #1104, #257
-  static true3 + #1105, #3967
+  static true3 + #1105, #257
   static true3 + #1106, #3967
   static true3 + #1107, #3967
   static true3 + #1108, #3967
@@ -12548,14 +12548,14 @@ g_true3 : var #1200
   static true3 + #1120, #3967
   static true3 + #1121, #3967
   static true3 + #1122, #3967
-  static true3 + #1123, #2139
-  static true3 + #1124, #2117
-  static true3 + #1125, #2126
-  static true3 + #1126, #2132
-  static true3 + #1127, #2117
-  static true3 + #1128, #2130
-  static true3 + #1129, #2141
-  static true3 + #1130, #3967
+  static true3 + #1123, #3967
+  static true3 + #1124, #2139
+  static true3 + #1125, #2117
+  static true3 + #1126, #2126
+  static true3 + #1127, #2132
+  static true3 + #1128, #2117
+  static true3 + #1129, #2130
+  static true3 + #1130, #2141
   static true3 + #1131, #3967
   static true3 + #1132, #3967
   static true3 + #1133, #3967
@@ -12575,10 +12575,10 @@ g_true3 : var #1200
   static true3 + #1147, #3967
   static true3 + #1148, #3967
   static true3 + #1149, #3967
-  static true3 + #1150, #2139
-  static true3 + #1151, #2131
-  static true3 + #1152, #2141
-  static true3 + #1153, #3967
+  static true3 + #1150, #3967
+  static true3 + #1151, #2139
+  static true3 + #1152, #2131
+  static true3 + #1153, #2141
   static true3 + #1154, #3967
   static true3 + #1155, #3967
   static true3 + #1156, #3967
@@ -12630,7 +12630,7 @@ g_true3 : var #1200
 
 ;=========Tela True 4===============
 
-g_true4 : var #1200
+true4 : var #1200
   ;Linha 0
   static true4 + #0, #3967
   static true4 + #1, #3967
@@ -12731,8 +12731,8 @@ g_true4 : var #1200
   static true4 + #92, #3967
   static true4 + #93, #3967
   static true4 + #94, #3967
-  static true4 + #95, #2142
-  static true4 + #96, #3967
+  static true4 + #95, #3967
+  static true4 + #96, #2142
   static true4 + #97, #3967
   static true4 + #98, #3967
   static true4 + #99, #3967
@@ -12770,22 +12770,22 @@ g_true4 : var #1200
   static true4 + #129, #3967
   static true4 + #130, #3967
   static true4 + #131, #3967
-  static true4 + #132, #2134
-  static true4 + #133, #2127
-  static true4 + #134, #2147
-  static true4 + #135, #2117
-  static true4 + #136, #3967
-  static true4 + #137, #2115
-  static true4 + #138, #2127
-  static true4 + #139, #2126
-  static true4 + #140, #2131
-  static true4 + #141, #2117
-  static true4 + #142, #2119
-  static true4 + #143, #2133
-  static true4 + #144, #2121
-  static true4 + #145, #2133
-  static true4 + #146, #2081
-  static true4 + #147, #3967
+  static true4 + #132, #3967
+  static true4 + #133, #2134
+  static true4 + #134, #2127
+  static true4 + #135, #2147
+  static true4 + #136, #2117
+  static true4 + #137, #3967
+  static true4 + #138, #2115
+  static true4 + #139, #2127
+  static true4 + #140, #2126
+  static true4 + #141, #2131
+  static true4 + #142, #2117
+  static true4 + #143, #2119
+  static true4 + #144, #2133
+  static true4 + #145, #2121
+  static true4 + #146, #2133
+  static true4 + #147, #2081
   static true4 + #148, #3967
   static true4 + #149, #3967
   static true4 + #150, #3967
@@ -12811,18 +12811,18 @@ g_true4 : var #1200
   static true4 + #168, #3967
   static true4 + #169, #3967
   static true4 + #170, #3967
-  static true4 + #171, #1
-  static true4 + #172, #3967
+  static true4 + #171, #3967
+  static true4 + #172, #1
   static true4 + #173, #3967
   static true4 + #174, #3967
   static true4 + #175, #3967
   static true4 + #176, #3967
-  static true4 + #177, #1
+  static true4 + #177, #3967
   static true4 + #178, #1
   static true4 + #179, #1
   static true4 + #180, #1
   static true4 + #181, #1
-  static true4 + #182, #3967
+  static true4 + #182, #1
   static true4 + #183, #3967
   static true4 + #184, #3967
   static true4 + #185, #3967
@@ -12853,11 +12853,11 @@ g_true4 : var #1200
   static true4 + #208, #3967
   static true4 + #209, #3967
   static true4 + #210, #3967
-  static true4 + #211, #1
-  static true4 + #212, #3967
+  static true4 + #211, #3967
+  static true4 + #212, #1
   static true4 + #213, #3967
   static true4 + #214, #3967
-  static true4 + #215, #1
+  static true4 + #215, #3967
   static true4 + #216, #1
   static true4 + #217, #1
   static true4 + #218, #1
@@ -12866,7 +12866,7 @@ g_true4 : var #1200
   static true4 + #221, #1
   static true4 + #222, #1
   static true4 + #223, #1
-  static true4 + #224, #3967
+  static true4 + #224, #1
   static true4 + #225, #3967
   static true4 + #226, #3967
   static true4 + #227, #3967
@@ -12895,21 +12895,21 @@ g_true4 : var #1200
   static true4 + #248, #3967
   static true4 + #249, #3967
   static true4 + #250, #3967
-  static true4 + #251, #1
+  static true4 + #251, #3967
   static true4 + #252, #1
   static true4 + #253, #1
   static true4 + #254, #1
   static true4 + #255, #1
-  static true4 + #256, #0
+  static true4 + #256, #1
   static true4 + #257, #0
   static true4 + #258, #0
   static true4 + #259, #0
   static true4 + #260, #0
   static true4 + #261, #0
   static true4 + #262, #0
-  static true4 + #263, #1
+  static true4 + #263, #0
   static true4 + #264, #1
-  static true4 + #265, #3967
+  static true4 + #265, #1
   static true4 + #266, #3967
   static true4 + #267, #3967
   static true4 + #268, #3967
@@ -12937,23 +12937,23 @@ g_true4 : var #1200
   static true4 + #288, #3967
   static true4 + #289, #3967
   static true4 + #290, #3967
-  static true4 + #291, #1
+  static true4 + #291, #3967
   static true4 + #292, #1
   static true4 + #293, #1
-  static true4 + #294, #0
+  static true4 + #294, #1
   static true4 + #295, #0
-  static true4 + #296, #512
+  static true4 + #296, #0
   static true4 + #297, #512
   static true4 + #298, #512
-  static true4 + #299, #0
-  static true4 + #300, #2048
+  static true4 + #299, #512
+  static true4 + #300, #0
   static true4 + #301, #2048
   static true4 + #302, #2048
-  static true4 + #303, #0
+  static true4 + #303, #2048
   static true4 + #304, #0
-  static true4 + #305, #1
+  static true4 + #305, #0
   static true4 + #306, #1
-  static true4 + #307, #3967
+  static true4 + #307, #1
   static true4 + #308, #3967
   static true4 + #309, #3967
   static true4 + #310, #3967
@@ -12978,26 +12978,26 @@ g_true4 : var #1200
   static true4 + #327, #3967
   static true4 + #328, #3967
   static true4 + #329, #3967
-  static true4 + #330, #1
+  static true4 + #330, #3967
   static true4 + #331, #1
-  static true4 + #332, #0
+  static true4 + #332, #1
   static true4 + #333, #0
-  static true4 + #334, #512
+  static true4 + #334, #0
   static true4 + #335, #512
   static true4 + #336, #512
   static true4 + #337, #512
   static true4 + #338, #512
-  static true4 + #339, #0
-  static true4 + #340, #2048
+  static true4 + #339, #512
+  static true4 + #340, #0
   static true4 + #341, #2048
   static true4 + #342, #2048
   static true4 + #343, #2048
   static true4 + #344, #2048
-  static true4 + #345, #0
+  static true4 + #345, #2048
   static true4 + #346, #0
-  static true4 + #347, #1
+  static true4 + #347, #0
   static true4 + #348, #1
-  static true4 + #349, #3967
+  static true4 + #349, #1
   static true4 + #350, #3967
   static true4 + #351, #3967
   static true4 + #352, #3967
@@ -13020,25 +13020,25 @@ g_true4 : var #1200
   static true4 + #367, #3967
   static true4 + #368, #3967
   static true4 + #369, #3967
-  static true4 + #370, #1
-  static true4 + #371, #0
-  static true4 + #372, #512
+  static true4 + #370, #3967
+  static true4 + #371, #1
+  static true4 + #372, #0
   static true4 + #373, #512
   static true4 + #374, #512
   static true4 + #375, #512
   static true4 + #376, #512
   static true4 + #377, #512
   static true4 + #378, #512
-  static true4 + #379, #0
-  static true4 + #380, #2048
+  static true4 + #379, #512
+  static true4 + #380, #0
   static true4 + #381, #2048
   static true4 + #382, #2048
   static true4 + #383, #2048
   static true4 + #384, #2048
   static true4 + #385, #2048
   static true4 + #386, #2048
-  static true4 + #387, #0
-  static true4 + #388, #3967
+  static true4 + #387, #2048
+  static true4 + #388, #0
   static true4 + #389, #3967
   static true4 + #390, #3967
   static true4 + #391, #3967
@@ -13061,26 +13061,26 @@ g_true4 : var #1200
   static true4 + #406, #3967
   static true4 + #407, #3967
   static true4 + #408, #3967
-  static true4 + #409, #1
+  static true4 + #409, #3967
   static true4 + #410, #1
-  static true4 + #411, #0
-  static true4 + #412, #512
+  static true4 + #411, #1
+  static true4 + #412, #0
   static true4 + #413, #512
   static true4 + #414, #512
   static true4 + #415, #512
   static true4 + #416, #512
   static true4 + #417, #512
   static true4 + #418, #512
-  static true4 + #419, #0
-  static true4 + #420, #2048
+  static true4 + #419, #512
+  static true4 + #420, #0
   static true4 + #421, #2048
   static true4 + #422, #2048
   static true4 + #423, #2048
   static true4 + #424, #2048
   static true4 + #425, #2048
   static true4 + #426, #2048
-  static true4 + #427, #0
-  static true4 + #428, #3967
+  static true4 + #427, #2048
+  static true4 + #428, #0
   static true4 + #429, #3967
   static true4 + #430, #3967
   static true4 + #431, #3967
@@ -13103,27 +13103,27 @@ g_true4 : var #1200
   static true4 + #446, #3967
   static true4 + #447, #3967
   static true4 + #448, #3967
-  static true4 + #449, #1
+  static true4 + #449, #3967
   static true4 + #450, #1
-  static true4 + #451, #0
-  static true4 + #452, #512
+  static true4 + #451, #1
+  static true4 + #452, #0
   static true4 + #453, #512
   static true4 + #454, #512
   static true4 + #455, #512
   static true4 + #456, #512
-  static true4 + #457, #0
+  static true4 + #457, #512
   static true4 + #458, #0
   static true4 + #459, #0
   static true4 + #460, #0
   static true4 + #461, #0
-  static true4 + #462, #2048
+  static true4 + #462, #0
   static true4 + #463, #2048
   static true4 + #464, #2048
   static true4 + #465, #2048
   static true4 + #466, #2048
-  static true4 + #467, #0
-  static true4 + #468, #1
-  static true4 + #469, #3967
+  static true4 + #467, #2048
+  static true4 + #468, #0
+  static true4 + #469, #1
   static true4 + #470, #3967
   static true4 + #471, #3967
   static true4 + #472, #3967
@@ -13145,27 +13145,27 @@ g_true4 : var #1200
   static true4 + #486, #3967
   static true4 + #487, #3967
   static true4 + #488, #3967
-  static true4 + #489, #1
-  static true4 + #490, #0
-  static true4 + #491, #512
+  static true4 + #489, #3967
+  static true4 + #490, #1
+  static true4 + #491, #0
   static true4 + #492, #512
   static true4 + #493, #512
   static true4 + #494, #512
   static true4 + #495, #512
-  static true4 + #496, #0
-  static true4 + #497, #4
-  static true4 + #498, #2049
-  static true4 + #499, #1
-  static true4 + #500, #2
+  static true4 + #496, #512
+  static true4 + #497, #0
+  static true4 + #498, #4
+  static true4 + #499, #2049
+  static true4 + #500, #1
   static true4 + #501, #2
-  static true4 + #502, #0
-  static true4 + #503, #2048
+  static true4 + #502, #2
+  static true4 + #503, #0
   static true4 + #504, #2048
   static true4 + #505, #2048
   static true4 + #506, #2048
   static true4 + #507, #2048
-  static true4 + #508, #0
-  static true4 + #509, #3967
+  static true4 + #508, #2048
+  static true4 + #509, #0
   static true4 + #510, #3967
   static true4 + #511, #3967
   static true4 + #512, #3967
@@ -13187,28 +13187,28 @@ g_true4 : var #1200
   static true4 + #526, #3967
   static true4 + #527, #3967
   static true4 + #528, #3967
-  static true4 + #529, #1
-  static true4 + #530, #0
-  static true4 + #531, #512
+  static true4 + #529, #3967
+  static true4 + #530, #1
+  static true4 + #531, #0
   static true4 + #532, #512
   static true4 + #533, #512
   static true4 + #534, #512
-  static true4 + #535, #0
-  static true4 + #536, #2
+  static true4 + #535, #512
+  static true4 + #536, #0
   static true4 + #537, #2
-  static true4 + #538, #2082
-  static true4 + #539, #2
-  static true4 + #540, #2082
-  static true4 + #541, #2
-  static true4 + #542, #3967
-  static true4 + #543, #0
-  static true4 + #544, #2048
+  static true4 + #538, #2
+  static true4 + #539, #2082
+  static true4 + #540, #2
+  static true4 + #541, #2082
+  static true4 + #542, #2
+  static true4 + #543, #3967
+  static true4 + #544, #0
   static true4 + #545, #2048
   static true4 + #546, #2048
   static true4 + #547, #2048
-  static true4 + #548, #0
-  static true4 + #549, #1
-  static true4 + #550, #3967
+  static true4 + #548, #2048
+  static true4 + #549, #0
+  static true4 + #550, #1
   static true4 + #551, #3967
   static true4 + #552, #3967
   static true4 + #553, #3967
@@ -13230,27 +13230,27 @@ g_true4 : var #1200
   static true4 + #567, #3967
   static true4 + #568, #3967
   static true4 + #569, #3967
-  static true4 + #570, #0
-  static true4 + #571, #512
+  static true4 + #570, #3967
+  static true4 + #571, #0
   static true4 + #572, #512
   static true4 + #573, #512
   static true4 + #574, #512
-  static true4 + #575, #0
-  static true4 + #576, #2
-  static true4 + #577, #2049
-  static true4 + #578, #2142
-  static true4 + #579, #257
-  static true4 + #580, #2142
-  static true4 + #581, #2049
-  static true4 + #582, #2
-  static true4 + #583, #0
-  static true4 + #584, #2048
+  static true4 + #575, #512
+  static true4 + #576, #0
+  static true4 + #577, #2
+  static true4 + #578, #2049
+  static true4 + #579, #2142
+  static true4 + #580, #257
+  static true4 + #581, #2142
+  static true4 + #582, #2049
+  static true4 + #583, #2
+  static true4 + #584, #0
   static true4 + #585, #2048
   static true4 + #586, #2048
   static true4 + #587, #2048
-  static true4 + #588, #0
-  static true4 + #589, #1
-  static true4 + #590, #3967
+  static true4 + #588, #2048
+  static true4 + #589, #0
+  static true4 + #590, #1
   static true4 + #591, #3967
   static true4 + #592, #3967
   static true4 + #593, #3967
@@ -13271,28 +13271,28 @@ g_true4 : var #1200
   static true4 + #606, #3967
   static true4 + #607, #3967
   static true4 + #608, #3967
-  static true4 + #609, #2
-  static true4 + #610, #0
+  static true4 + #609, #3967
+  static true4 + #610, #2
   static true4 + #611, #0
   static true4 + #612, #0
   static true4 + #613, #0
   static true4 + #614, #0
   static true4 + #615, #0
-  static true4 + #616, #1
+  static true4 + #616, #0
   static true4 + #617, #1
-  static true4 + #618, #2049
+  static true4 + #618, #1
   static true4 + #619, #2049
-  static true4 + #620, #257
-  static true4 + #621, #1
+  static true4 + #620, #2049
+  static true4 + #621, #257
   static true4 + #622, #1
-  static true4 + #623, #0
+  static true4 + #623, #1
   static true4 + #624, #0
   static true4 + #625, #0
   static true4 + #626, #0
   static true4 + #627, #0
   static true4 + #628, #0
-  static true4 + #629, #1
-  static true4 + #630, #3967
+  static true4 + #629, #0
+  static true4 + #630, #1
   static true4 + #631, #3967
   static true4 + #632, #3967
   static true4 + #633, #3967
@@ -13313,28 +13313,28 @@ g_true4 : var #1200
   static true4 + #646, #3967
   static true4 + #647, #3967
   static true4 + #648, #3967
-  static true4 + #649, #2
-  static true4 + #650, #0
-  static true4 + #651, #2304
+  static true4 + #649, #3967
+  static true4 + #650, #2
+  static true4 + #651, #0
   static true4 + #652, #2304
   static true4 + #653, #2304
   static true4 + #654, #2304
-  static true4 + #655, #0
-  static true4 + #656, #1
-  static true4 + #657, #3967
-  static true4 + #658, #2049
-  static true4 + #659, #2166
-  static true4 + #660, #2049
-  static true4 + #661, #1
+  static true4 + #655, #2304
+  static true4 + #656, #0
+  static true4 + #657, #1
+  static true4 + #658, #3967
+  static true4 + #659, #2049
+  static true4 + #660, #2166
+  static true4 + #661, #2049
   static true4 + #662, #1
-  static true4 + #663, #0
-  static true4 + #664, #3072
+  static true4 + #663, #1
+  static true4 + #664, #0
   static true4 + #665, #3072
   static true4 + #666, #3072
   static true4 + #667, #3072
-  static true4 + #668, #0
-  static true4 + #669, #1
-  static true4 + #670, #3967
+  static true4 + #668, #3072
+  static true4 + #669, #0
+  static true4 + #670, #1
   static true4 + #671, #3967
   static true4 + #672, #3967
   static true4 + #673, #3967
@@ -13355,27 +13355,27 @@ g_true4 : var #1200
   static true4 + #686, #3967
   static true4 + #687, #3967
   static true4 + #688, #3967
-  static true4 + #689, #1
-  static true4 + #690, #0
-  static true4 + #691, #2304
+  static true4 + #689, #3967
+  static true4 + #690, #1
+  static true4 + #691, #0
   static true4 + #692, #2304
   static true4 + #693, #2304
   static true4 + #694, #2304
-  static true4 + #695, #0
-  static true4 + #696, #1
-  static true4 + #697, #3967
+  static true4 + #695, #2304
+  static true4 + #696, #0
+  static true4 + #697, #1
   static true4 + #698, #3967
-  static true4 + #699, #2049
-  static true4 + #700, #3967
-  static true4 + #701, #1
+  static true4 + #699, #3967
+  static true4 + #700, #2049
+  static true4 + #701, #3967
   static true4 + #702, #1
-  static true4 + #703, #0
-  static true4 + #704, #3072
+  static true4 + #703, #1
+  static true4 + #704, #0
   static true4 + #705, #3072
   static true4 + #706, #3072
   static true4 + #707, #3072
-  static true4 + #708, #0
-  static true4 + #709, #3967
+  static true4 + #708, #3072
+  static true4 + #709, #0
   static true4 + #710, #3967
   static true4 + #711, #3967
   static true4 + #712, #3967
@@ -13397,27 +13397,27 @@ g_true4 : var #1200
   static true4 + #726, #3967
   static true4 + #727, #3967
   static true4 + #728, #3967
-  static true4 + #729, #2
-  static true4 + #730, #0
-  static true4 + #731, #2304
+  static true4 + #729, #3967
+  static true4 + #730, #2
+  static true4 + #731, #0
   static true4 + #732, #2304
   static true4 + #733, #2304
   static true4 + #734, #2304
   static true4 + #735, #2304
-  static true4 + #736, #0
-  static true4 + #737, #1
+  static true4 + #736, #2304
+  static true4 + #737, #0
   static true4 + #738, #1
   static true4 + #739, #1
   static true4 + #740, #1
   static true4 + #741, #1
-  static true4 + #742, #0
-  static true4 + #743, #3072
+  static true4 + #742, #1
+  static true4 + #743, #0
   static true4 + #744, #3072
   static true4 + #745, #3072
   static true4 + #746, #3072
   static true4 + #747, #3072
-  static true4 + #748, #0
-  static true4 + #749, #3967
+  static true4 + #748, #3072
+  static true4 + #749, #0
   static true4 + #750, #3967
   static true4 + #751, #3967
   static true4 + #752, #3967
@@ -13439,27 +13439,27 @@ g_true4 : var #1200
   static true4 + #766, #3967
   static true4 + #767, #3967
   static true4 + #768, #3967
-  static true4 + #769, #2
+  static true4 + #769, #3967
   static true4 + #770, #2
-  static true4 + #771, #0
-  static true4 + #772, #2304
+  static true4 + #771, #2
+  static true4 + #772, #0
   static true4 + #773, #2304
   static true4 + #774, #2304
   static true4 + #775, #2304
   static true4 + #776, #2304
-  static true4 + #777, #0
+  static true4 + #777, #2304
   static true4 + #778, #0
   static true4 + #779, #0
   static true4 + #780, #0
   static true4 + #781, #0
-  static true4 + #782, #3072
+  static true4 + #782, #0
   static true4 + #783, #3072
   static true4 + #784, #3072
   static true4 + #785, #3072
   static true4 + #786, #3072
-  static true4 + #787, #0
-  static true4 + #788, #2
-  static true4 + #789, #3967
+  static true4 + #787, #3072
+  static true4 + #788, #0
+  static true4 + #789, #2
   static true4 + #790, #3967
   static true4 + #791, #3967
   static true4 + #792, #3967
@@ -13480,28 +13480,28 @@ g_true4 : var #1200
   static true4 + #805, #3967
   static true4 + #806, #3967
   static true4 + #807, #3967
-  static true4 + #808, #2
+  static true4 + #808, #3967
   static true4 + #809, #2
   static true4 + #810, #2
-  static true4 + #811, #0
-  static true4 + #812, #2304
+  static true4 + #811, #2
+  static true4 + #812, #0
   static true4 + #813, #2304
   static true4 + #814, #2304
   static true4 + #815, #2304
   static true4 + #816, #2304
   static true4 + #817, #2304
   static true4 + #818, #2304
-  static true4 + #819, #0
-  static true4 + #820, #3072
+  static true4 + #819, #2304
+  static true4 + #820, #0
   static true4 + #821, #3072
   static true4 + #822, #3072
   static true4 + #823, #3072
   static true4 + #824, #3072
   static true4 + #825, #3072
   static true4 + #826, #3072
-  static true4 + #827, #0
-  static true4 + #828, #2
-  static true4 + #829, #3967
+  static true4 + #827, #3072
+  static true4 + #828, #0
+  static true4 + #829, #2
   static true4 + #830, #3967
   static true4 + #831, #3967
   static true4 + #832, #3967
@@ -13522,28 +13522,28 @@ g_true4 : var #1200
   static true4 + #845, #3967
   static true4 + #846, #3967
   static true4 + #847, #3967
-  static true4 + #848, #2
-  static true4 + #849, #3967
-  static true4 + #850, #2
-  static true4 + #851, #0
-  static true4 + #852, #2304
+  static true4 + #848, #3967
+  static true4 + #849, #2
+  static true4 + #850, #3967
+  static true4 + #851, #2
+  static true4 + #852, #0
   static true4 + #853, #2304
   static true4 + #854, #2304
   static true4 + #855, #2304
   static true4 + #856, #2304
   static true4 + #857, #2304
   static true4 + #858, #2304
-  static true4 + #859, #0
-  static true4 + #860, #3072
+  static true4 + #859, #2304
+  static true4 + #860, #0
   static true4 + #861, #3072
   static true4 + #862, #3072
   static true4 + #863, #3072
   static true4 + #864, #3072
   static true4 + #865, #3072
   static true4 + #866, #3072
-  static true4 + #867, #0
-  static true4 + #868, #2
-  static true4 + #869, #3967
+  static true4 + #867, #3072
+  static true4 + #868, #0
+  static true4 + #869, #2
   static true4 + #870, #3967
   static true4 + #871, #3967
   static true4 + #872, #3967
@@ -13564,29 +13564,29 @@ g_true4 : var #1200
   static true4 + #885, #3967
   static true4 + #886, #3967
   static true4 + #887, #3967
-  static true4 + #888, #2
+  static true4 + #888, #3967
   static true4 + #889, #2
   static true4 + #890, #2
   static true4 + #891, #2
-  static true4 + #892, #0
+  static true4 + #892, #2
   static true4 + #893, #0
-  static true4 + #894, #2304
+  static true4 + #894, #0
   static true4 + #895, #2304
   static true4 + #896, #2304
   static true4 + #897, #2304
   static true4 + #898, #2304
-  static true4 + #899, #0
-  static true4 + #900, #3072
+  static true4 + #899, #2304
+  static true4 + #900, #0
   static true4 + #901, #3072
   static true4 + #902, #3072
   static true4 + #903, #3072
   static true4 + #904, #3072
-  static true4 + #905, #0
+  static true4 + #905, #3072
   static true4 + #906, #0
-  static true4 + #907, #1
-  static true4 + #908, #2
+  static true4 + #907, #0
+  static true4 + #908, #1
   static true4 + #909, #2
-  static true4 + #910, #3967
+  static true4 + #910, #2
   static true4 + #911, #3967
   static true4 + #912, #3967
   static true4 + #913, #3967
@@ -13602,32 +13602,32 @@ g_true4 : var #1200
   static true4 + #921, #3967
   static true4 + #922, #3967
   static true4 + #923, #3967
-  static true4 + #924, #2
+  static true4 + #924, #3967
   static true4 + #925, #2
-  static true4 + #926, #3967
-  static true4 + #927, #2
+  static true4 + #926, #2
+  static true4 + #927, #3967
   static true4 + #928, #2
   static true4 + #929, #2
   static true4 + #930, #2
   static true4 + #931, #2
   static true4 + #932, #2
   static true4 + #933, #2
-  static true4 + #934, #0
+  static true4 + #934, #2
   static true4 + #935, #0
-  static true4 + #936, #2304
+  static true4 + #936, #0
   static true4 + #937, #2304
   static true4 + #938, #2304
-  static true4 + #939, #0
-  static true4 + #940, #3072
+  static true4 + #939, #2304
+  static true4 + #940, #0
   static true4 + #941, #3072
   static true4 + #942, #3072
-  static true4 + #943, #0
+  static true4 + #943, #3072
   static true4 + #944, #0
-  static true4 + #945, #2
-  static true4 + #946, #1
-  static true4 + #947, #2
+  static true4 + #945, #0
+  static true4 + #946, #2
+  static true4 + #947, #1
   static true4 + #948, #2
-  static true4 + #949, #3967
+  static true4 + #949, #2
   static true4 + #950, #3967
   static true4 + #951, #3967
   static true4 + #952, #3967
@@ -13644,30 +13644,30 @@ g_true4 : var #1200
   static true4 + #961, #3967
   static true4 + #962, #3967
   static true4 + #963, #3967
-  static true4 + #964, #2
+  static true4 + #964, #3967
   static true4 + #965, #2
-  static true4 + #966, #3967
-  static true4 + #967, #2
-  static true4 + #968, #3967
-  static true4 + #969, #2
+  static true4 + #966, #2
+  static true4 + #967, #3967
+  static true4 + #968, #2
+  static true4 + #969, #3967
   static true4 + #970, #2
-  static true4 + #971, #3967
-  static true4 + #972, #2
+  static true4 + #971, #2
+  static true4 + #972, #3967
   static true4 + #973, #2
   static true4 + #974, #2
   static true4 + #975, #2
-  static true4 + #976, #0
+  static true4 + #976, #2
   static true4 + #977, #0
   static true4 + #978, #0
   static true4 + #979, #0
   static true4 + #980, #0
   static true4 + #981, #0
   static true4 + #982, #0
-  static true4 + #983, #3967
-  static true4 + #984, #2
+  static true4 + #983, #0
+  static true4 + #984, #3967
   static true4 + #985, #2
   static true4 + #986, #2
-  static true4 + #987, #3967
+  static true4 + #987, #2
   static true4 + #988, #3967
   static true4 + #989, #3967
   static true4 + #990, #3967
@@ -13692,15 +13692,15 @@ g_true4 : var #1200
   static true4 + #1007, #3967
   static true4 + #1008, #3967
   static true4 + #1009, #3967
-  static true4 + #1010, #2
+  static true4 + #1010, #3967
   static true4 + #1011, #2
   static true4 + #1012, #2
   static true4 + #1013, #2
   static true4 + #1014, #2
   static true4 + #1015, #2
   static true4 + #1016, #2
-  static true4 + #1017, #3967
-  static true4 + #1018, #2
+  static true4 + #1017, #2
+  static true4 + #1018, #3967
   static true4 + #1019, #2
   static true4 + #1020, #2
   static true4 + #1021, #2
@@ -13709,7 +13709,7 @@ g_true4 : var #1200
   static true4 + #1024, #2
   static true4 + #1025, #2
   static true4 + #1026, #2
-  static true4 + #1027, #3967
+  static true4 + #1027, #2
   static true4 + #1028, #3967
   static true4 + #1029, #3967
   static true4 + #1030, #3967
@@ -13726,39 +13726,39 @@ g_true4 : var #1200
   ;Linha 26
   static true4 + #1040, #3967
   static true4 + #1041, #3967
-  static true4 + #1042, #2115
-  static true4 + #1043, #2127
-  static true4 + #1044, #2126
-  static true4 + #1045, #2132
-  static true4 + #1046, #2121
-  static true4 + #1047, #2126
-  static true4 + #1048, #2133
-  static true4 + #1049, #2113
-  static true4 + #1050, #2130
-  static true4 + #1051, #2561
+  static true4 + #1042, #3967
+  static true4 + #1043, #2115
+  static true4 + #1044, #2127
+  static true4 + #1045, #2126
+  static true4 + #1046, #2132
+  static true4 + #1047, #2121
+  static true4 + #1048, #2126
+  static true4 + #1049, #2133
+  static true4 + #1050, #2113
+  static true4 + #1051, #2130
   static true4 + #1052, #2561
-  static true4 + #1053, #2
+  static true4 + #1053, #2561
   static true4 + #1054, #2
   static true4 + #1055, #2
   static true4 + #1056, #2
-  static true4 + #1057, #257
+  static true4 + #1057, #2
   static true4 + #1058, #257
   static true4 + #1059, #257
   static true4 + #1060, #257
   static true4 + #1061, #257
   static true4 + #1062, #257
-  static true4 + #1063, #3967
+  static true4 + #1063, #257
   static true4 + #1064, #3967
-  static true4 + #1065, #2
-  static true4 + #1066, #3967
+  static true4 + #1065, #3967
+  static true4 + #1066, #2
   static true4 + #1067, #3967
   static true4 + #1068, #3967
   static true4 + #1069, #3967
-  static true4 + #1070, #2131
-  static true4 + #1071, #2113
-  static true4 + #1072, #2121
-  static true4 + #1073, #2130
-  static true4 + #1074, #3967
+  static true4 + #1070, #3967
+  static true4 + #1071, #2131
+  static true4 + #1072, #2113
+  static true4 + #1073, #2121
+  static true4 + #1074, #2130
   static true4 + #1075, #3967
   static true4 + #1076, #3967
   static true4 + #1077, #3967
@@ -13768,17 +13768,17 @@ g_true4 : var #1200
   ;Linha 27
   static true4 + #1080, #3967
   static true4 + #1081, #3967
-  static true4 + #1082, #2049
+  static true4 + #1082, #3967
   static true4 + #1083, #2049
   static true4 + #1084, #2049
   static true4 + #1085, #2049
-  static true4 + #1086, #3967
+  static true4 + #1086, #2049
   static true4 + #1087, #3967
   static true4 + #1088, #3967
   static true4 + #1089, #3967
   static true4 + #1090, #3967
   static true4 + #1091, #3967
-  static true4 + #1092, #257
+  static true4 + #1092, #3967
   static true4 + #1093, #257
   static true4 + #1094, #257
   static true4 + #1095, #257
@@ -13791,7 +13791,7 @@ g_true4 : var #1200
   static true4 + #1102, #257
   static true4 + #1103, #257
   static true4 + #1104, #257
-  static true4 + #1105, #3967
+  static true4 + #1105, #257
   static true4 + #1106, #3967
   static true4 + #1107, #3967
   static true4 + #1108, #3967
@@ -13811,14 +13811,14 @@ g_true4 : var #1200
   static true4 + #1120, #3967
   static true4 + #1121, #3967
   static true4 + #1122, #3967
-  static true4 + #1123, #2139
-  static true4 + #1124, #2117
-  static true4 + #1125, #2126
-  static true4 + #1126, #2132
-  static true4 + #1127, #2117
-  static true4 + #1128, #2130
-  static true4 + #1129, #2141
-  static true4 + #1130, #3967
+  static true4 + #1123, #3967
+  static true4 + #1124, #2139
+  static true4 + #1125, #2117
+  static true4 + #1126, #2126
+  static true4 + #1127, #2132
+  static true4 + #1128, #2117
+  static true4 + #1129, #2130
+  static true4 + #1130, #2141
   static true4 + #1131, #3967
   static true4 + #1132, #3967
   static true4 + #1133, #3967
@@ -13838,10 +13838,10 @@ g_true4 : var #1200
   static true4 + #1147, #3967
   static true4 + #1148, #3967
   static true4 + #1149, #3967
-  static true4 + #1150, #2139
-  static true4 + #1151, #2131
-  static true4 + #1152, #2141
-  static true4 + #1153, #3967
+  static true4 + #1150, #3967
+  static true4 + #1151, #2139
+  static true4 + #1152, #2131
+  static true4 + #1153, #2141
   static true4 + #1154, #3967
   static true4 + #1155, #3967
   static true4 + #1156, #3967
@@ -13893,7 +13893,7 @@ g_true4 : var #1200
 
 ;=========Tela True 5===========
 
-g_true5 : var #1200
+true5 : var #1200
   ;Linha 0
   static true5 + #0, #3967
   static true5 + #1, #3967
@@ -13994,8 +13994,8 @@ g_true5 : var #1200
   static true5 + #92, #3967
   static true5 + #93, #3967
   static true5 + #94, #3967
-  static true5 + #95, #2142
-  static true5 + #96, #3967
+  static true5 + #95, #3967
+  static true5 + #96, #2142
   static true5 + #97, #3967
   static true5 + #98, #3967
   static true5 + #99, #3967
@@ -14033,22 +14033,22 @@ g_true5 : var #1200
   static true5 + #129, #3967
   static true5 + #130, #3967
   static true5 + #131, #3967
-  static true5 + #132, #2134
-  static true5 + #133, #2127
-  static true5 + #134, #2147
-  static true5 + #135, #2117
-  static true5 + #136, #3967
-  static true5 + #137, #2115
-  static true5 + #138, #2127
-  static true5 + #139, #2126
-  static true5 + #140, #2131
-  static true5 + #141, #2117
-  static true5 + #142, #2119
-  static true5 + #143, #2133
-  static true5 + #144, #2121
-  static true5 + #145, #2133
-  static true5 + #146, #2081
-  static true5 + #147, #3967
+  static true5 + #132, #3967
+  static true5 + #133, #2134
+  static true5 + #134, #2127
+  static true5 + #135, #2147
+  static true5 + #136, #2117
+  static true5 + #137, #3967
+  static true5 + #138, #2115
+  static true5 + #139, #2127
+  static true5 + #140, #2126
+  static true5 + #141, #2131
+  static true5 + #142, #2117
+  static true5 + #143, #2119
+  static true5 + #144, #2133
+  static true5 + #145, #2121
+  static true5 + #146, #2133
+  static true5 + #147, #2081
   static true5 + #148, #3967
   static true5 + #149, #3967
   static true5 + #150, #3967
@@ -14074,18 +14074,18 @@ g_true5 : var #1200
   static true5 + #168, #3967
   static true5 + #169, #3967
   static true5 + #170, #3967
-  static true5 + #171, #1
-  static true5 + #172, #3967
+  static true5 + #171, #3967
+  static true5 + #172, #1
   static true5 + #173, #3967
   static true5 + #174, #3967
   static true5 + #175, #3967
   static true5 + #176, #3967
-  static true5 + #177, #1
+  static true5 + #177, #3967
   static true5 + #178, #1
   static true5 + #179, #1
   static true5 + #180, #1
   static true5 + #181, #1
-  static true5 + #182, #3967
+  static true5 + #182, #1
   static true5 + #183, #3967
   static true5 + #184, #3967
   static true5 + #185, #3967
@@ -14116,11 +14116,11 @@ g_true5 : var #1200
   static true5 + #208, #3967
   static true5 + #209, #3967
   static true5 + #210, #3967
-  static true5 + #211, #1
-  static true5 + #212, #3967
+  static true5 + #211, #3967
+  static true5 + #212, #1
   static true5 + #213, #3967
   static true5 + #214, #3967
-  static true5 + #215, #1
+  static true5 + #215, #3967
   static true5 + #216, #1
   static true5 + #217, #1
   static true5 + #218, #1
@@ -14129,7 +14129,7 @@ g_true5 : var #1200
   static true5 + #221, #1
   static true5 + #222, #1
   static true5 + #223, #1
-  static true5 + #224, #3967
+  static true5 + #224, #1
   static true5 + #225, #3967
   static true5 + #226, #3967
   static true5 + #227, #3967
@@ -14158,21 +14158,21 @@ g_true5 : var #1200
   static true5 + #248, #3967
   static true5 + #249, #3967
   static true5 + #250, #3967
-  static true5 + #251, #1
+  static true5 + #251, #3967
   static true5 + #252, #1
   static true5 + #253, #1
   static true5 + #254, #1
   static true5 + #255, #1
-  static true5 + #256, #0
+  static true5 + #256, #1
   static true5 + #257, #0
   static true5 + #258, #0
   static true5 + #259, #0
   static true5 + #260, #0
   static true5 + #261, #0
   static true5 + #262, #0
-  static true5 + #263, #1
+  static true5 + #263, #0
   static true5 + #264, #1
-  static true5 + #265, #3967
+  static true5 + #265, #1
   static true5 + #266, #3967
   static true5 + #267, #3967
   static true5 + #268, #3967
@@ -14200,23 +14200,23 @@ g_true5 : var #1200
   static true5 + #288, #3967
   static true5 + #289, #3967
   static true5 + #290, #3967
-  static true5 + #291, #1
+  static true5 + #291, #3967
   static true5 + #292, #1
   static true5 + #293, #1
-  static true5 + #294, #0
+  static true5 + #294, #1
   static true5 + #295, #0
-  static true5 + #296, #512
+  static true5 + #296, #0
   static true5 + #297, #512
   static true5 + #298, #512
-  static true5 + #299, #0
-  static true5 + #300, #2816
+  static true5 + #299, #512
+  static true5 + #300, #0
   static true5 + #301, #2816
   static true5 + #302, #2816
-  static true5 + #303, #0
+  static true5 + #303, #2816
   static true5 + #304, #0
-  static true5 + #305, #1
+  static true5 + #305, #0
   static true5 + #306, #1
-  static true5 + #307, #3967
+  static true5 + #307, #1
   static true5 + #308, #3967
   static true5 + #309, #3967
   static true5 + #310, #3967
@@ -14241,26 +14241,26 @@ g_true5 : var #1200
   static true5 + #327, #3967
   static true5 + #328, #3967
   static true5 + #329, #3967
-  static true5 + #330, #1
+  static true5 + #330, #3967
   static true5 + #331, #1
-  static true5 + #332, #0
+  static true5 + #332, #1
   static true5 + #333, #0
-  static true5 + #334, #512
+  static true5 + #334, #0
   static true5 + #335, #512
   static true5 + #336, #512
   static true5 + #337, #512
   static true5 + #338, #512
-  static true5 + #339, #0
-  static true5 + #340, #2816
+  static true5 + #339, #512
+  static true5 + #340, #0
   static true5 + #341, #2816
   static true5 + #342, #2816
   static true5 + #343, #2816
   static true5 + #344, #2816
-  static true5 + #345, #0
+  static true5 + #345, #2816
   static true5 + #346, #0
-  static true5 + #347, #1
+  static true5 + #347, #0
   static true5 + #348, #1
-  static true5 + #349, #3967
+  static true5 + #349, #1
   static true5 + #350, #3967
   static true5 + #351, #3967
   static true5 + #352, #3967
@@ -14283,25 +14283,25 @@ g_true5 : var #1200
   static true5 + #367, #3967
   static true5 + #368, #3967
   static true5 + #369, #3967
-  static true5 + #370, #1
-  static true5 + #371, #0
-  static true5 + #372, #512
+  static true5 + #370, #3967
+  static true5 + #371, #1
+  static true5 + #372, #0
   static true5 + #373, #512
   static true5 + #374, #512
   static true5 + #375, #512
   static true5 + #376, #512
   static true5 + #377, #512
   static true5 + #378, #512
-  static true5 + #379, #0
-  static true5 + #380, #2816
+  static true5 + #379, #512
+  static true5 + #380, #0
   static true5 + #381, #2816
   static true5 + #382, #2816
   static true5 + #383, #2816
   static true5 + #384, #2816
   static true5 + #385, #2816
   static true5 + #386, #2816
-  static true5 + #387, #0
-  static true5 + #388, #3967
+  static true5 + #387, #2816
+  static true5 + #388, #0
   static true5 + #389, #3967
   static true5 + #390, #3967
   static true5 + #391, #3967
@@ -14324,26 +14324,26 @@ g_true5 : var #1200
   static true5 + #406, #3967
   static true5 + #407, #3967
   static true5 + #408, #3967
-  static true5 + #409, #1
+  static true5 + #409, #3967
   static true5 + #410, #1
-  static true5 + #411, #0
-  static true5 + #412, #512
+  static true5 + #411, #1
+  static true5 + #412, #0
   static true5 + #413, #512
   static true5 + #414, #512
   static true5 + #415, #512
   static true5 + #416, #512
   static true5 + #417, #512
   static true5 + #418, #512
-  static true5 + #419, #0
-  static true5 + #420, #2816
+  static true5 + #419, #512
+  static true5 + #420, #0
   static true5 + #421, #2816
   static true5 + #422, #2816
   static true5 + #423, #2816
   static true5 + #424, #2816
   static true5 + #425, #2816
   static true5 + #426, #2816
-  static true5 + #427, #0
-  static true5 + #428, #3967
+  static true5 + #427, #2816
+  static true5 + #428, #0
   static true5 + #429, #3967
   static true5 + #430, #3967
   static true5 + #431, #3967
@@ -14366,27 +14366,27 @@ g_true5 : var #1200
   static true5 + #446, #3967
   static true5 + #447, #3967
   static true5 + #448, #3967
-  static true5 + #449, #1
+  static true5 + #449, #3967
   static true5 + #450, #1
-  static true5 + #451, #0
-  static true5 + #452, #512
+  static true5 + #451, #1
+  static true5 + #452, #0
   static true5 + #453, #512
   static true5 + #454, #512
   static true5 + #455, #512
   static true5 + #456, #512
-  static true5 + #457, #0
+  static true5 + #457, #512
   static true5 + #458, #0
   static true5 + #459, #0
   static true5 + #460, #0
   static true5 + #461, #0
-  static true5 + #462, #2816
+  static true5 + #462, #0
   static true5 + #463, #2816
   static true5 + #464, #2816
   static true5 + #465, #2816
   static true5 + #466, #2816
-  static true5 + #467, #0
-  static true5 + #468, #1
-  static true5 + #469, #3967
+  static true5 + #467, #2816
+  static true5 + #468, #0
+  static true5 + #469, #1
   static true5 + #470, #3967
   static true5 + #471, #3967
   static true5 + #472, #3967
@@ -14408,27 +14408,27 @@ g_true5 : var #1200
   static true5 + #486, #3967
   static true5 + #487, #3967
   static true5 + #488, #3967
-  static true5 + #489, #1
-  static true5 + #490, #0
-  static true5 + #491, #512
+  static true5 + #489, #3967
+  static true5 + #490, #1
+  static true5 + #491, #0
   static true5 + #492, #512
   static true5 + #493, #512
   static true5 + #494, #512
   static true5 + #495, #512
-  static true5 + #496, #0
-  static true5 + #497, #4
-  static true5 + #498, #2049
-  static true5 + #499, #1
-  static true5 + #500, #2
+  static true5 + #496, #512
+  static true5 + #497, #0
+  static true5 + #498, #4
+  static true5 + #499, #2049
+  static true5 + #500, #1
   static true5 + #501, #2
-  static true5 + #502, #0
-  static true5 + #503, #2816
+  static true5 + #502, #2
+  static true5 + #503, #0
   static true5 + #504, #2816
   static true5 + #505, #2816
   static true5 + #506, #2816
   static true5 + #507, #2816
-  static true5 + #508, #0
-  static true5 + #509, #3967
+  static true5 + #508, #2816
+  static true5 + #509, #0
   static true5 + #510, #3967
   static true5 + #511, #3967
   static true5 + #512, #3967
@@ -14450,28 +14450,28 @@ g_true5 : var #1200
   static true5 + #526, #3967
   static true5 + #527, #3967
   static true5 + #528, #3967
-  static true5 + #529, #1
-  static true5 + #530, #0
-  static true5 + #531, #512
+  static true5 + #529, #3967
+  static true5 + #530, #1
+  static true5 + #531, #0
   static true5 + #532, #512
   static true5 + #533, #512
   static true5 + #534, #512
-  static true5 + #535, #0
-  static true5 + #536, #2
+  static true5 + #535, #512
+  static true5 + #536, #0
   static true5 + #537, #2
-  static true5 + #538, #2082
-  static true5 + #539, #2
-  static true5 + #540, #2082
-  static true5 + #541, #2
-  static true5 + #542, #3967
-  static true5 + #543, #0
-  static true5 + #544, #2816
+  static true5 + #538, #2
+  static true5 + #539, #2082
+  static true5 + #540, #2
+  static true5 + #541, #2082
+  static true5 + #542, #2
+  static true5 + #543, #3967
+  static true5 + #544, #0
   static true5 + #545, #2816
   static true5 + #546, #2816
   static true5 + #547, #2816
-  static true5 + #548, #0
-  static true5 + #549, #1
-  static true5 + #550, #3967
+  static true5 + #548, #2816
+  static true5 + #549, #0
+  static true5 + #550, #1
   static true5 + #551, #3967
   static true5 + #552, #3967
   static true5 + #553, #3967
@@ -14493,27 +14493,27 @@ g_true5 : var #1200
   static true5 + #567, #3967
   static true5 + #568, #3967
   static true5 + #569, #3967
-  static true5 + #570, #0
-  static true5 + #571, #512
+  static true5 + #570, #3967
+  static true5 + #571, #0
   static true5 + #572, #512
   static true5 + #573, #512
   static true5 + #574, #512
-  static true5 + #575, #0
-  static true5 + #576, #2
-  static true5 + #577, #2049
-  static true5 + #578, #2142
-  static true5 + #579, #257
-  static true5 + #580, #2142
-  static true5 + #581, #2049
-  static true5 + #582, #2
-  static true5 + #583, #0
-  static true5 + #584, #2816
+  static true5 + #575, #512
+  static true5 + #576, #0
+  static true5 + #577, #2
+  static true5 + #578, #2049
+  static true5 + #579, #2142
+  static true5 + #580, #257
+  static true5 + #581, #2142
+  static true5 + #582, #2049
+  static true5 + #583, #2
+  static true5 + #584, #0
   static true5 + #585, #2816
   static true5 + #586, #2816
   static true5 + #587, #2816
-  static true5 + #588, #0
-  static true5 + #589, #1
-  static true5 + #590, #3967
+  static true5 + #588, #2816
+  static true5 + #589, #0
+  static true5 + #590, #1
   static true5 + #591, #3967
   static true5 + #592, #3967
   static true5 + #593, #3967
@@ -14534,28 +14534,28 @@ g_true5 : var #1200
   static true5 + #606, #3967
   static true5 + #607, #3967
   static true5 + #608, #3967
-  static true5 + #609, #2
-  static true5 + #610, #0
+  static true5 + #609, #3967
+  static true5 + #610, #2
   static true5 + #611, #0
   static true5 + #612, #0
   static true5 + #613, #0
   static true5 + #614, #0
   static true5 + #615, #0
-  static true5 + #616, #1
+  static true5 + #616, #0
   static true5 + #617, #1
-  static true5 + #618, #2049
+  static true5 + #618, #1
   static true5 + #619, #2049
-  static true5 + #620, #257
-  static true5 + #621, #1
+  static true5 + #620, #2049
+  static true5 + #621, #257
   static true5 + #622, #1
-  static true5 + #623, #0
+  static true5 + #623, #1
   static true5 + #624, #0
   static true5 + #625, #0
   static true5 + #626, #0
   static true5 + #627, #0
   static true5 + #628, #0
-  static true5 + #629, #1
-  static true5 + #630, #3967
+  static true5 + #629, #0
+  static true5 + #630, #1
   static true5 + #631, #3967
   static true5 + #632, #3967
   static true5 + #633, #3967
@@ -14576,28 +14576,28 @@ g_true5 : var #1200
   static true5 + #646, #3967
   static true5 + #647, #3967
   static true5 + #648, #3967
-  static true5 + #649, #2
-  static true5 + #650, #0
-  static true5 + #651, #2304
+  static true5 + #649, #3967
+  static true5 + #650, #2
+  static true5 + #651, #0
   static true5 + #652, #2304
   static true5 + #653, #2304
   static true5 + #654, #2304
-  static true5 + #655, #0
-  static true5 + #656, #1
-  static true5 + #657, #3967
-  static true5 + #658, #2140
-  static true5 + #659, #2065
-  static true5 + #660, #2095
-  static true5 + #661, #1
+  static true5 + #655, #2304
+  static true5 + #656, #0
+  static true5 + #657, #1
+  static true5 + #658, #3967
+  static true5 + #659, #2140
+  static true5 + #660, #2065
+  static true5 + #661, #2095
   static true5 + #662, #1
-  static true5 + #663, #0
-  static true5 + #664, #3072
+  static true5 + #663, #1
+  static true5 + #664, #0
   static true5 + #665, #3072
   static true5 + #666, #3072
   static true5 + #667, #3072
-  static true5 + #668, #0
-  static true5 + #669, #1
-  static true5 + #670, #3967
+  static true5 + #668, #3072
+  static true5 + #669, #0
+  static true5 + #670, #1
   static true5 + #671, #3967
   static true5 + #672, #3967
   static true5 + #673, #3967
@@ -14618,27 +14618,27 @@ g_true5 : var #1200
   static true5 + #686, #3967
   static true5 + #687, #3967
   static true5 + #688, #3967
-  static true5 + #689, #1
-  static true5 + #690, #0
-  static true5 + #691, #2304
+  static true5 + #689, #3967
+  static true5 + #690, #1
+  static true5 + #691, #0
   static true5 + #692, #2304
   static true5 + #693, #2304
   static true5 + #694, #2304
-  static true5 + #695, #0
-  static true5 + #696, #1
-  static true5 + #697, #3967
+  static true5 + #695, #2304
+  static true5 + #696, #0
+  static true5 + #697, #1
   static true5 + #698, #3967
-  static true5 + #699, #2049
-  static true5 + #700, #3967
-  static true5 + #701, #1
+  static true5 + #699, #3967
+  static true5 + #700, #2049
+  static true5 + #701, #3967
   static true5 + #702, #1
-  static true5 + #703, #0
-  static true5 + #704, #3072
+  static true5 + #703, #1
+  static true5 + #704, #0
   static true5 + #705, #3072
   static true5 + #706, #3072
   static true5 + #707, #3072
-  static true5 + #708, #0
-  static true5 + #709, #3967
+  static true5 + #708, #3072
+  static true5 + #709, #0
   static true5 + #710, #3967
   static true5 + #711, #3967
   static true5 + #712, #3967
@@ -14660,27 +14660,27 @@ g_true5 : var #1200
   static true5 + #726, #3967
   static true5 + #727, #3967
   static true5 + #728, #3967
-  static true5 + #729, #2
-  static true5 + #730, #0
-  static true5 + #731, #2304
+  static true5 + #729, #3967
+  static true5 + #730, #2
+  static true5 + #731, #0
   static true5 + #732, #2304
   static true5 + #733, #2304
   static true5 + #734, #2304
   static true5 + #735, #2304
-  static true5 + #736, #0
-  static true5 + #737, #1
+  static true5 + #736, #2304
+  static true5 + #737, #0
   static true5 + #738, #1
   static true5 + #739, #1
   static true5 + #740, #1
   static true5 + #741, #1
-  static true5 + #742, #0
-  static true5 + #743, #3072
+  static true5 + #742, #1
+  static true5 + #743, #0
   static true5 + #744, #3072
   static true5 + #745, #3072
   static true5 + #746, #3072
   static true5 + #747, #3072
-  static true5 + #748, #0
-  static true5 + #749, #3967
+  static true5 + #748, #3072
+  static true5 + #749, #0
   static true5 + #750, #3967
   static true5 + #751, #3967
   static true5 + #752, #3967
@@ -14702,27 +14702,27 @@ g_true5 : var #1200
   static true5 + #766, #3967
   static true5 + #767, #3967
   static true5 + #768, #3967
-  static true5 + #769, #2
+  static true5 + #769, #3967
   static true5 + #770, #2
-  static true5 + #771, #0
-  static true5 + #772, #2304
+  static true5 + #771, #2
+  static true5 + #772, #0
   static true5 + #773, #2304
   static true5 + #774, #2304
   static true5 + #775, #2304
   static true5 + #776, #2304
-  static true5 + #777, #0
+  static true5 + #777, #2304
   static true5 + #778, #0
   static true5 + #779, #0
   static true5 + #780, #0
   static true5 + #781, #0
-  static true5 + #782, #3072
+  static true5 + #782, #0
   static true5 + #783, #3072
   static true5 + #784, #3072
   static true5 + #785, #3072
   static true5 + #786, #3072
-  static true5 + #787, #0
-  static true5 + #788, #2
-  static true5 + #789, #3967
+  static true5 + #787, #3072
+  static true5 + #788, #0
+  static true5 + #789, #2
   static true5 + #790, #3967
   static true5 + #791, #3967
   static true5 + #792, #3967
@@ -14743,28 +14743,28 @@ g_true5 : var #1200
   static true5 + #805, #3967
   static true5 + #806, #3967
   static true5 + #807, #3967
-  static true5 + #808, #2
+  static true5 + #808, #3967
   static true5 + #809, #2
   static true5 + #810, #2
-  static true5 + #811, #0
-  static true5 + #812, #2304
+  static true5 + #811, #2
+  static true5 + #812, #0
   static true5 + #813, #2304
   static true5 + #814, #2304
   static true5 + #815, #2304
   static true5 + #816, #2304
   static true5 + #817, #2304
   static true5 + #818, #2304
-  static true5 + #819, #0
-  static true5 + #820, #3072
+  static true5 + #819, #2304
+  static true5 + #820, #0
   static true5 + #821, #3072
   static true5 + #822, #3072
   static true5 + #823, #3072
   static true5 + #824, #3072
   static true5 + #825, #3072
   static true5 + #826, #3072
-  static true5 + #827, #0
-  static true5 + #828, #2
-  static true5 + #829, #3967
+  static true5 + #827, #3072
+  static true5 + #828, #0
+  static true5 + #829, #2
   static true5 + #830, #3967
   static true5 + #831, #3967
   static true5 + #832, #3967
@@ -14785,28 +14785,28 @@ g_true5 : var #1200
   static true5 + #845, #3967
   static true5 + #846, #3967
   static true5 + #847, #3967
-  static true5 + #848, #2
-  static true5 + #849, #3967
-  static true5 + #850, #2
-  static true5 + #851, #0
-  static true5 + #852, #2304
+  static true5 + #848, #3967
+  static true5 + #849, #2
+  static true5 + #850, #3967
+  static true5 + #851, #2
+  static true5 + #852, #0
   static true5 + #853, #2304
   static true5 + #854, #2304
   static true5 + #855, #2304
   static true5 + #856, #2304
   static true5 + #857, #2304
   static true5 + #858, #2304
-  static true5 + #859, #0
-  static true5 + #860, #3072
+  static true5 + #859, #2304
+  static true5 + #860, #0
   static true5 + #861, #3072
   static true5 + #862, #3072
   static true5 + #863, #3072
   static true5 + #864, #3072
   static true5 + #865, #3072
   static true5 + #866, #3072
-  static true5 + #867, #0
-  static true5 + #868, #2
-  static true5 + #869, #3967
+  static true5 + #867, #3072
+  static true5 + #868, #0
+  static true5 + #869, #2
   static true5 + #870, #3967
   static true5 + #871, #3967
   static true5 + #872, #3967
@@ -14827,29 +14827,29 @@ g_true5 : var #1200
   static true5 + #885, #3967
   static true5 + #886, #3967
   static true5 + #887, #3967
-  static true5 + #888, #2
+  static true5 + #888, #3967
   static true5 + #889, #2
   static true5 + #890, #2
   static true5 + #891, #2
-  static true5 + #892, #0
+  static true5 + #892, #2
   static true5 + #893, #0
-  static true5 + #894, #2304
+  static true5 + #894, #0
   static true5 + #895, #2304
   static true5 + #896, #2304
   static true5 + #897, #2304
   static true5 + #898, #2304
-  static true5 + #899, #0
-  static true5 + #900, #3072
+  static true5 + #899, #2304
+  static true5 + #900, #0
   static true5 + #901, #3072
   static true5 + #902, #3072
   static true5 + #903, #3072
   static true5 + #904, #3072
-  static true5 + #905, #0
+  static true5 + #905, #3072
   static true5 + #906, #0
-  static true5 + #907, #1
-  static true5 + #908, #2
+  static true5 + #907, #0
+  static true5 + #908, #1
   static true5 + #909, #2
-  static true5 + #910, #3967
+  static true5 + #910, #2
   static true5 + #911, #3967
   static true5 + #912, #3967
   static true5 + #913, #3967
@@ -14865,32 +14865,32 @@ g_true5 : var #1200
   static true5 + #921, #3967
   static true5 + #922, #3967
   static true5 + #923, #3967
-  static true5 + #924, #2
+  static true5 + #924, #3967
   static true5 + #925, #2
-  static true5 + #926, #3967
-  static true5 + #927, #2
+  static true5 + #926, #2
+  static true5 + #927, #3967
   static true5 + #928, #2
   static true5 + #929, #2
   static true5 + #930, #2
   static true5 + #931, #2
   static true5 + #932, #2
   static true5 + #933, #2
-  static true5 + #934, #0
+  static true5 + #934, #2
   static true5 + #935, #0
-  static true5 + #936, #2304
+  static true5 + #936, #0
   static true5 + #937, #2304
   static true5 + #938, #2304
-  static true5 + #939, #0
-  static true5 + #940, #3072
+  static true5 + #939, #2304
+  static true5 + #940, #0
   static true5 + #941, #3072
   static true5 + #942, #3072
-  static true5 + #943, #0
+  static true5 + #943, #3072
   static true5 + #944, #0
-  static true5 + #945, #2
-  static true5 + #946, #1
-  static true5 + #947, #2
+  static true5 + #945, #0
+  static true5 + #946, #2
+  static true5 + #947, #1
   static true5 + #948, #2
-  static true5 + #949, #3967
+  static true5 + #949, #2
   static true5 + #950, #3967
   static true5 + #951, #3967
   static true5 + #952, #3967
@@ -14907,30 +14907,30 @@ g_true5 : var #1200
   static true5 + #961, #3967
   static true5 + #962, #3967
   static true5 + #963, #3967
-  static true5 + #964, #2
+  static true5 + #964, #3967
   static true5 + #965, #2
-  static true5 + #966, #3967
-  static true5 + #967, #2
-  static true5 + #968, #3967
-  static true5 + #969, #2
+  static true5 + #966, #2
+  static true5 + #967, #3967
+  static true5 + #968, #2
+  static true5 + #969, #3967
   static true5 + #970, #2
-  static true5 + #971, #3967
-  static true5 + #972, #2
+  static true5 + #971, #2
+  static true5 + #972, #3967
   static true5 + #973, #2
   static true5 + #974, #2
   static true5 + #975, #2
-  static true5 + #976, #0
+  static true5 + #976, #2
   static true5 + #977, #0
   static true5 + #978, #0
   static true5 + #979, #0
   static true5 + #980, #0
   static true5 + #981, #0
   static true5 + #982, #0
-  static true5 + #983, #3967
-  static true5 + #984, #2
+  static true5 + #983, #0
+  static true5 + #984, #3967
   static true5 + #985, #2
   static true5 + #986, #2
-  static true5 + #987, #3967
+  static true5 + #987, #2
   static true5 + #988, #3967
   static true5 + #989, #3967
   static true5 + #990, #3967
@@ -14955,15 +14955,15 @@ g_true5 : var #1200
   static true5 + #1007, #3967
   static true5 + #1008, #3967
   static true5 + #1009, #3967
-  static true5 + #1010, #2
+  static true5 + #1010, #3967
   static true5 + #1011, #2
   static true5 + #1012, #2
   static true5 + #1013, #2
   static true5 + #1014, #2
   static true5 + #1015, #2
   static true5 + #1016, #2
-  static true5 + #1017, #3967
-  static true5 + #1018, #2
+  static true5 + #1017, #2
+  static true5 + #1018, #3967
   static true5 + #1019, #2
   static true5 + #1020, #2
   static true5 + #1021, #2
@@ -14972,7 +14972,7 @@ g_true5 : var #1200
   static true5 + #1024, #2
   static true5 + #1025, #2
   static true5 + #1026, #2
-  static true5 + #1027, #3967
+  static true5 + #1027, #2
   static true5 + #1028, #3967
   static true5 + #1029, #3967
   static true5 + #1030, #3967
@@ -14989,39 +14989,39 @@ g_true5 : var #1200
   ;Linha 26
   static true5 + #1040, #3967
   static true5 + #1041, #3967
-  static true5 + #1042, #2115
-  static true5 + #1043, #2127
-  static true5 + #1044, #2126
-  static true5 + #1045, #2132
-  static true5 + #1046, #2121
-  static true5 + #1047, #2126
-  static true5 + #1048, #2133
-  static true5 + #1049, #2113
-  static true5 + #1050, #2130
-  static true5 + #1051, #2561
+  static true5 + #1042, #3967
+  static true5 + #1043, #2115
+  static true5 + #1044, #2127
+  static true5 + #1045, #2126
+  static true5 + #1046, #2132
+  static true5 + #1047, #2121
+  static true5 + #1048, #2126
+  static true5 + #1049, #2133
+  static true5 + #1050, #2113
+  static true5 + #1051, #2130
   static true5 + #1052, #2561
-  static true5 + #1053, #2
+  static true5 + #1053, #2561
   static true5 + #1054, #2
   static true5 + #1055, #2
   static true5 + #1056, #2
-  static true5 + #1057, #257
+  static true5 + #1057, #2
   static true5 + #1058, #257
   static true5 + #1059, #257
   static true5 + #1060, #257
   static true5 + #1061, #257
   static true5 + #1062, #257
-  static true5 + #1063, #3967
+  static true5 + #1063, #257
   static true5 + #1064, #3967
-  static true5 + #1065, #2
-  static true5 + #1066, #3967
+  static true5 + #1065, #3967
+  static true5 + #1066, #2
   static true5 + #1067, #3967
   static true5 + #1068, #3967
   static true5 + #1069, #3967
-  static true5 + #1070, #2131
-  static true5 + #1071, #2113
-  static true5 + #1072, #2121
-  static true5 + #1073, #2130
-  static true5 + #1074, #3967
+  static true5 + #1070, #3967
+  static true5 + #1071, #2131
+  static true5 + #1072, #2113
+  static true5 + #1073, #2121
+  static true5 + #1074, #2130
   static true5 + #1075, #3967
   static true5 + #1076, #3967
   static true5 + #1077, #3967
@@ -15031,17 +15031,17 @@ g_true5 : var #1200
   ;Linha 27
   static true5 + #1080, #3967
   static true5 + #1081, #3967
-  static true5 + #1082, #2049
+  static true5 + #1082, #3967
   static true5 + #1083, #2049
   static true5 + #1084, #2049
   static true5 + #1085, #2049
-  static true5 + #1086, #3967
+  static true5 + #1086, #2049
   static true5 + #1087, #3967
   static true5 + #1088, #3967
   static true5 + #1089, #3967
   static true5 + #1090, #3967
   static true5 + #1091, #3967
-  static true5 + #1092, #257
+  static true5 + #1092, #3967
   static true5 + #1093, #257
   static true5 + #1094, #257
   static true5 + #1095, #257
@@ -15054,7 +15054,7 @@ g_true5 : var #1200
   static true5 + #1102, #257
   static true5 + #1103, #257
   static true5 + #1104, #257
-  static true5 + #1105, #3967
+  static true5 + #1105, #257
   static true5 + #1106, #3967
   static true5 + #1107, #3967
   static true5 + #1108, #3967
@@ -15074,14 +15074,14 @@ g_true5 : var #1200
   static true5 + #1120, #3967
   static true5 + #1121, #3967
   static true5 + #1122, #3967
-  static true5 + #1123, #2139
-  static true5 + #1124, #2117
-  static true5 + #1125, #2126
-  static true5 + #1126, #2132
-  static true5 + #1127, #2117
-  static true5 + #1128, #2130
-  static true5 + #1129, #2141
-  static true5 + #1130, #3967
+  static true5 + #1123, #3967
+  static true5 + #1124, #2139
+  static true5 + #1125, #2117
+  static true5 + #1126, #2126
+  static true5 + #1127, #2132
+  static true5 + #1128, #2117
+  static true5 + #1129, #2130
+  static true5 + #1130, #2141
   static true5 + #1131, #3967
   static true5 + #1132, #3967
   static true5 + #1133, #3967
@@ -15101,10 +15101,10 @@ g_true5 : var #1200
   static true5 + #1147, #3967
   static true5 + #1148, #3967
   static true5 + #1149, #3967
-  static true5 + #1150, #2139
-  static true5 + #1151, #2131
-  static true5 + #1152, #2141
-  static true5 + #1153, #3967
+  static true5 + #1150, #3967
+  static true5 + #1151, #2139
+  static true5 + #1152, #2131
+  static true5 + #1153, #2141
   static true5 + #1154, #3967
   static true5 + #1155, #3967
   static true5 + #1156, #3967
@@ -16415,7 +16415,6 @@ pontuacao : var #1200
   static pontuacao + #1198, #127
   static pontuacao + #1199, #127
 
-
 ;========Variáveis do Jogo==========
 
 fase: var #1
@@ -16439,6 +16438,8 @@ main:
 
     loadn r1, #4
     store semente, r1
+
+	loadn r5, #0
 
     call print_TelaInicial
 
@@ -16473,7 +16474,7 @@ nova_fase:
     cmp r7, r0 ;ve se ja foram as 15 fases
     jne roda_fase
  
- halt	
+ call sair	
 	
 ;---------------Subrotinas---------------
 
@@ -16595,6 +16596,9 @@ verificar_resposta:
 
 
 resultado_acerto:
+
+	inc r5
+
     ;tela de acerto
 	call printtrue1Screen
 	call delay 
@@ -16634,9 +16638,11 @@ resultado_erro:
 
 	push r2
 	push r3
+	push r4
 	
 	le_resposta2:
 		loadn r3, #115
+		loadn r4, #99
 		inchar r2
 
 		cmp r2, r3
@@ -16647,6 +16653,15 @@ resultado_erro:
 			loadn r3, #83
 			cmp r2, r3
 				jeq sair
+
+		cmp r2, r4
+			jeq main
+			jne maiusculo3
+
+		maiusculo3:
+			loadn r4, #67
+			cmp r2, r4
+				jeq main
 				jne le_resposta2
 
 sair:
@@ -17034,6 +17049,8 @@ printfalseScreen:
   pop R0
   rts
 
+
+
 printtrue1Screen:
   push R0
   push R1
@@ -17164,6 +17181,32 @@ printtrue5Screen:
   pop R0
   rts
 
+printtrue5Screen:
+  push R0
+  push R1
+  push R2
+  push R3
+
+  loadn R0, #true5
+  loadn R1, #0
+  loadn R2, #1200
+
+  printtrue5ScreenLoop:
+
+    add R3,R0,R1
+    loadi R3, R3
+    outchar R3, R1
+    inc R1
+    cmp R1, R2
+
+    jne printtrue5ScreenLoop
+
+  pop R3
+  pop R2
+  pop R1
+  pop R0
+  rts
+
 printpontuacaoScreen:
   push R0
   push R1
@@ -17190,7 +17233,6 @@ printpontuacaoScreen:
   pop R0
   rts
 
-
  ApagaTela:
 	push r0
 	push r1
@@ -17205,5 +17247,5 @@ printpontuacaoScreen:
  
 	pop r1
 	pop r0
-rts	
+	rts	
 	
